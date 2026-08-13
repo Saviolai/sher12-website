@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>版型体系 — SHER12</title>
+<meta name="description" content="SHER12 版型体系 — 甲乙丙丁，四种帽型，四种扣法。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧢</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --font-display:'DM Sans','Arial Narrow',sans-serif;
+  --font-body:'Inter','PingFang SC','Microsoft YaHei',system-ui,sans-serif;
+  --bg:#0B0B0D;
+  --bg2:#141417;
+  --paper:#F2EDE3;
+  --ink:#0B0B0D;
+  --red:#FF3B2F;
+  --red-d:#D62219;
+  --gold:#E8B84B;
+  --gray:#8A8A8A;
+  --line:rgba(242,237,227,.12);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-body);background:var(--bg);color:var(--paper);line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+.eng{font-family:var(--font-display)}
+
+/* NAV */
+.nav{position:sticky;top:0;z-index:50;background:rgba(11,11,13,.82);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:14px 20px}
+.logo{font-weight:600;letter-spacing:.12em;font-size:20px}
+.logo b{color:var(--red)}
+.nav-links{display:flex;gap:20px;font-size:13px;font-weight:500;letter-spacing:.06em}
+.nav-links a{color:var(--gray);transition:color .2s}
+.nav-links a:hover{color:var(--paper)}
+.nav-toggle{display:none;background:none;border:none;color:var(--paper);font-size:22px;cursor:pointer;padding:4px 8px}
+@media(max-width:760px){.nav-links{display:none}.nav-links.open{display:flex;position:absolute;top:100%;left:0;right:0;flex-direction:column;background:rgba(11,11,13,.96);backdrop-filter:blur(14px);padding:20px;gap:16px;border-bottom:1px solid var(--line)}.nav-toggle{display:block}}
+
+/* SECTION */
+section{padding:88px 20px;max-width:1080px;margin:0 auto}
+.sec-head{margin-bottom:48px}
+.sec-head .num{font-size:12px;letter-spacing:.42em;color:var(--red);font-weight:600}
+.sec-head h2{font-size:clamp(30px,7.5vw,52px);font-weight:700;margin-top:12px;letter-spacing:-.01em}
+.sec-head p{color:var(--gray);margin-top:14px;font-size:15px;font-weight:400;max-width:560px}
+
+/* 帽型头部 */
+.fit-header{display:flex;align-items:flex-start;gap:32px;flex-wrap:wrap;margin-bottom:56px}
+.fit-header .glyph-big{font-size:clamp(80px,18vw,140px);font-weight:700;color:var(--red);line-height:.85;letter-spacing:-.04em}
+.fit-header .fit-info{flex:1;min-width:200px}
+.fit-header .fit-info .en{font-size:13px;letter-spacing:.28em;color:var(--gray);font-weight:600;margin-bottom:6px}
+.fit-header .fit-info .cn{font-size:clamp(28px,6vw,40px);font-weight:700;margin-bottom:14px}
+.fit-header .fit-info .closures{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+.fit-header .fit-info .closures span{font-size:12px;font-weight:600;letter-spacing:.04em;color:var(--paper);background:rgba(242,237,227,.08);border:1px solid var(--line);padding:5px 12px;border-radius:2px}
+.fit-header .fit-info .count{font-size:14px;color:var(--gray);margin-top:16px}
+
+/* 帽型切换 tabs */
+.fit-tabs{display:flex;gap:0;margin-bottom:40px;border-bottom:1px solid var(--line)}
+.fit-tabs a{padding:14px 24px;font-size:14px;font-weight:600;letter-spacing:.06em;color:var(--gray);border-bottom:2px solid transparent;transition:color .2s,border-color .2s}
+.fit-tabs a:hover{color:var(--paper)}
+.fit-tabs a.on{color:var(--red);border-bottom-color:var(--red)}
+
+/* 产品网格 — New Era 风格 */
+.prod-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+@media(max-width:860px){.prod-grid{grid-template-columns:repeat(3,1fr)}
+@media(max-width:560px){.prod-grid{grid-template-columns:repeat(2,1fr)}}
+}
+.prod{position:relative;background:var(--bg2);border:none;border-radius:0;overflow:hidden;transition:opacity .25s;text-decoration:none;color:inherit;display:block}
+.prod:hover{opacity:.7}
+.prod .ph{aspect-ratio:1/1;display:block;position:relative;background-size:contain;background-position:center;background-repeat:no-repeat;background-color:#fff;overflow:hidden}
+.prod .ph::after{display:none}
+.prod .info{padding:12px 14px;height:48px;box-sizing:border-box;display:flex;align-items:center}
+.prod .info .name{font-weight:600;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:100%}
+.prod .info .name .arrow{color:var(--red);font-weight:400}
+.prod .info .desc{display:none}
+.prod .info .price{display:none}
+
+/* back btn */
+.back-btn{display:inline-block;margin-top:48px;font-size:14px;font-weight:600;letter-spacing:.06em;color:var(--gray);transition:color .2s}
+.back-btn:hover{color:var(--red)}
+
+footer{padding:40px 20px;text-align:center;font-size:13px;color:var(--gray);border-top:1px solid var(--line);margin-top:60px}
+footer img{margin:0 auto 12px}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html" class="logo"><img src="assets/logo-white.png" alt="SHER12" style="height:26px;width:auto"></a>
+  <div class="nav-links" id="navLinks">
+    <a href="index.html#code">品牌密码</a>
+    <a href="index.html#fit">版型</a>
+    <a href="index.html#products">产品</a>
+    <a href="index.html#accessories">配件</a>
+    <a href="index.html#city">城市</a>
+    <a href="index.html#store">门店</a>
+    <a href="index.html#contact">联系</a>
+  </div>
+  <button class="nav-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">☰</button>
+</nav>
+
+<section>
+  <div class="sec-head">
+    <div class="num">THE FIT SYSTEM</div>
+    <h2 id="fitTitle">版型体系</h2>
+    <p id="fitDesc">我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。</p>
+  </div>
+
+  <div class="fit-tabs" id="fitTabs">
+    <a href="hattype.html?fit=jia" data-fit="jia">甲 · 平沿帽</a>
+    <a href="hattype.html?fit=yi" data-fit="yi">乙 · 弯沿帽</a>
+    <a href="hattype.html?fit=bing" data-fit="bing">丙 · 渔夫帽</a>
+    <a href="hattype.html?fit=ding" data-fit="ding">丁 · 瓜皮帽</a>
+  </div>
+
+  <div class="fit-header" id="fitHeader"></div>
+
+  <div class="prod-grid" id="prodGrid"></div>
+
+  <a href="index.html#fit" class="back-btn">← 返回版型体系</a>
+</section>
+
+<footer>
+  <div><img src="assets/logo-white.png" alt="SHER12" style="height:32px;width:auto"></div>
+  <div>中国帽子本土设计 · 做中国人自己的帽饰品牌</div>
+  <div style="margin-top:10px;opacity:.5">© 2026 SHER12</div>
+</footer>
+
+<script>
+var FIT_DATA={
+  jia:{glyph:'甲',cn:'平沿帽',en:'FLAT BRIM',closures:['24 金属日字扣','12 塑胶背扣'],
+    products:[
+      {name:'中国·红',href:'product-zhongguo-red.html',img:'cap-zhongguo-red-1.jpg',desc:'「中国」二字，金黄刺绣，酒红底。最直接的文化表达。'},
+      {name:'不服',href:'product-bufu.html',img:'cap-bufu-1.jpg',desc:'两个字，一种态度。戴上就是表态。'},
+      {name:'Peace',href:'product-peace.html',img:'cap-peace-1.jpg',desc:'倒过来的和平。看不见的和平，才是真和平。'},
+      {name:'魔术贴·甲12',href:'product-magic-jia-black.html',img:'cap-magic-jia-black-1.jpg',desc:'平沿帽配魔术贴，全黑百搭。可调节，随时到位。'},
+      {name:'蛇皮纹',href:'product-snakeskin.html',img:'cap-snakeskin-1.jpg',desc:'蛇皮纹理印花，红蓝撞色，野性十足。'}
+    ]},
+  yi:{glyph:'乙',cn:'弯沿帽',en:'CURVED',closures:['24 金属日字扣','0 封闭不可调'],
+    products:[
+      {name:'發财',href:'product-fa.html',img:'cap-fa-1.jpg',desc:'绿色帽身+白色大字「發」覆盖全帽，帽檐下印「生财有道」。'},
+      {name:'拾贰',href:'product-twelve.html',img:'cap-twelve-1.jpg',desc:'「拾贰」刺绣，十二即一切。帽字十二笔，中国十二笔。'},
+      {name:'Peace 乙0',href:'product-peace-y0.html',img:'cap-peace-y0-1.jpg',desc:'弯沿 Peace 乙0版，封闭帽型，不可调节。和平的另一种形态。'},
+      {name:'Sher 乙0',href:'product-sher-blue.html',img:'cap-sher-blue-1.jpg',desc:'Sher 乙0版，封闭帽型。来了就是深圳人。'},
+      {name:'Sher·白蓝',href:'product-sher-whiteblue.html',img:'cap-sher-whiteblue-1.jpg',desc:'Sher 系列白蓝配色，清爽街头风。白色帽身搭配蓝色帽檐，手写体 Sher logo。'},
+      {name:'马赛克SHER',href:'product-gameboy.html',img:'cap-gameboy-1.jpg',desc:'马赛克像素风 SHER 印花，数字时代的帽饰表达。'},
+      {name:'广东',href:'product-guangdong.html',img:'cap-guangdong-1.jpg',desc:'「广东」刺绣，深圳人的广东认同。大湾区的心声。'},
+      {name:'LZLD 独角兽',href:'product-lzld-unicorn.html',img:'cap-lzld-unicorn-1.jpg',desc:'独角兽，糖果绿紫，甜美梦幻。潮玩 IP × 帽饰文化。'},
+      {name:'LZLG 英斗狗',href:'product-lzlg-dog.html',img:'cap-lzlg-dog-1.jpg',desc:'一只永远在加载懒惰的狗。不想起床、不想上班、永远在缓冲。'},
+      {name:'珠峰',href:'product-everest.html',img:'cap-everest-1.jpg',desc:'向上，永远向上。8848.86m，一座山的高度，一种态度的高度。'},
+      {name:'Simple·黑',href:'product-classic-black.html',img:'cap-classic-black-1.jpg',desc:'Simple 基础系列，全黑配色。品质本身即是态度。'},
+      {name:'Simple·卡其',href:'product-classic-khaki.html',img:'cap-classic-khaki-1.jpg',desc:'Simple 基础系列，卡其配色。复古温暖，百搭之选。'},
+      {name:'Sign 乙24H·灰',href:'product-sign-gray.html',img:'cap-sign-gray-1.jpg',desc:'Sign 乙24H版，灰色低调。金属扣品质之选。'},
+      {name:'Sign 乙24H·蓝',href:'product-sign-blue.html',img:'cap-sign-blue-1.jpg',desc:'Sign 乙24H版，蓝色清爽。金属扣品质之选。'},
+      {name:'Love·棕',href:'product-love-brown.html',img:'cap-love-brown-1.jpg',desc:'Love 主题，米白帽身棕色细节。爱是最温柔的态度。'},
+      {name:'Love·绿',href:'product-love-green.html',img:'cap-love-green-1.jpg',desc:'Love 绿色款，清新自然配色。'},
+      {name:'Love·粉',href:'product-love-pink.html',img:'cap-love-pink-1.jpg',desc:'Love 粉色款，甜美配色传递温暖。'},
+      {name:'Peace·蓝',href:'product-peace24-blue.html',img:'cap-peace24-blue-1.jpg',desc:'Peace 蓝色款。和平的新表达。'},
+      {name:'Peace·黑',href:'product-peace24-black.html',img:'cap-peace24-black-1.jpg',desc:'Peace 全黑沉稳。'},
+      {name:'Sign·Pink',href:'product-sign-pink.html',img:'cap-sign-pink-1.jpg',desc:'Sign 系列 Pink 款，打破常规。'},
+      {name:'Sign·藤萝紫',href:'product-sign-purple.html',img:'cap-sign-purple-1.jpg',desc:'Sign 系列藤萝紫款，浪漫神秘。'},
+      {name:'Sign·青古绿',href:'product-sign-green.html',img:'cap-sign-green-1.jpg',desc:'Sign 系列青古绿款，沉静内敛。'},
+      {name:'Sign·棕黄',href:'product-sign-tan.html',img:'cap-sign-tan-1.jpg',desc:'Sign 系列棕黄款，复古温暖。'}
+    ]},
+  bing:{glyph:'丙',cn:'渔夫帽',en:'BUCKET',closures:['10 金属塑扣','0 封闭不可调'],
+    products:[
+      {name:'魔术贴渔夫帽',href:'product-magic-bing-black.html',img:'cap-magic-bing-black-1.jpg',desc:'魔术贴可调节渔夫帽，全黑配色。功能与风格兼具。'},
+      {name:'渔夫帽·蓝卡其',href:'product-bing-bluekhaki.html',img:'cap-bing-bluekhaki-1.jpg',desc:'双面蓝卡其渔夫帽，一面蓝一面卡其，两种心情。'},
+      {name:'渔夫帽·黑白印花',href:'product-bing-blackwhite.html',img:'cap-bing-blackwhite-1.jpg',desc:'双面黑白印花渔夫帽，SHER logo 醒目印花。'},
+      {name:'渔夫帽·粉白',href:'product-bing-whitepink.html',img:'cap-bing-whitepink-1.jpg',desc:'双面粉白渔夫帽，清新甜美。两面可穿。'}
+    ]},
+  ding:{glyph:'丁',cn:'瓜皮帽',en:'5-PANEL',closures:['10 金属塑扣'],
+    products:[
+      {name:'丁·黑',href:'product-ding-black.html',img:'cap-ding-black-1.jpg',desc:'五片帽黑色款，可调节。版型定生死。'},
+      {name:'丁·蓝',href:'product-ding-blue.html',img:'cap-ding-blue-1.jpg',desc:'五片帽蓝色款，SHER 刺绣点睛。可调节。'}
+    ]}
+};
+
+var params=new URLSearchParams(window.location.search);
+var fitKey=params.get('fit')||'jia';
+var fit=FIT_DATA[fitKey]||FIT_DATA.jia;
+
+// Set title
+document.title=fit.glyph+' · '+fit.cn+' — SHER12';
+
+// Set active tab
+document.querySelectorAll('#fitTabs a').forEach(function(a){
+  if(a.getAttribute('data-fit')===fitKey){a.classList.add('on')}
+});
+
+// Render header
+var headerHtml='<div class="glyph-big">'+fit.glyph+'</div>';
+headerHtml+='<div class="fit-info">';
+headerHtml+='<div class="en">'+fit.en+'</div>';
+headerHtml+='<div class="cn">'+fit.cn+'</div>';
+headerHtml+='<div class="closures">';
+fit.closures.forEach(function(c){headerHtml+='<span>'+c+'</span>'});
+headerHtml+='</div>';
+headerHtml+='<div class="count">'+fit.products.length+' 款产品</div>';
+headerHtml+='</div>';
+document.getElementById('fitHeader').innerHTML=headerHtml;
+
+// Render products
+var gridHtml='';
+fit.products.forEach(function(p){
+  gridHtml+='<a class="prod" href="'+p.href+'">';
+  gridHtml+='<div class="ph" style="background-image:url(\'assets/'+p.img+'\')"></div>';
+  gridHtml+='<div class="info"><div class="name">'+p.name+' <span class="arrow">&rarr;</span></div></div>';
+  gridHtml+='</a>';
+});
+document.getElementById('prodGrid').innerHTML=gridHtml;
+</script>
+</body>
+</html>
