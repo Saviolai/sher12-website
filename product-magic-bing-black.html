@@ -98,7 +98,7 @@ img.nav-logo{height:24px;width:auto}
 
 <nav class="nav">
   <div class="nav-left">
-    <a href="index.html"><img src="assets/logo-white.png" alt="SHER12" class="nav-logo"></a>
+    <a href="index.html"><img loading="lazy" src="assets/logo-white.png" alt="SHER12" class="nav-logo"></a>
     <div class="breadcrumb">
       <a href="index.html">Home</a><span class="sep">/</span>
       <a href="index.html#products">产品</a><span class="sep">/</span>
@@ -126,18 +126,18 @@ img.nav-logo{height:24px;width:auto}
     <div class="pd-gallery">
     <div class="pd-thumbs-v">
 
-      <div class="pd-thumb active" onclick="swapImg(this,'assets/cap-magic-bing-black-1.jpg')"><img src="assets/cap-magic-bing-black-1.jpg" alt="正面 45°"></div>
-      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-2.jpg')"><img src="assets/cap-magic-bing-black-2.jpg" alt="正面"></div>
-      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-3.jpg')"><img src="assets/cap-magic-bing-black-3.jpg" alt="侧面"></div>
-      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-4.jpg')"><img src="assets/cap-magic-bing-black-4.jpg" alt="背面"></div>
-      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-5.jpg')"><img src="assets/cap-magic-bing-black-5.jpg" alt="细节"></div>
-      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-6.jpg')"><img src="assets/cap-magic-bing-black-6.jpg" alt="内衬"></div>
+      <div class="pd-thumb active" onclick="swapImg(this,'assets/cap-magic-bing-black-1.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-1.jpg" alt="正面 45°"></div>
+      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-2.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-2.jpg" alt="正面"></div>
+      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-3.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-3.jpg" alt="侧面"></div>
+      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-4.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-4.jpg" alt="背面"></div>
+      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-5.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-5.jpg" alt="细节"></div>
+      <div class="pd-thumb " onclick="swapImg(this,'assets/cap-magic-bing-black-6.jpg')"><img loading="lazy" src="assets/cap-magic-bing-black-6.jpg" alt="内衬"></div>
     </div>
     <div class="pd-main-img">
       <span class="pd-main-label">魔术贴 · 渔夫帽</span>
       <div class="pd-arrow pd-arrow-left" onclick="navImg(-1)">‹</div>
       <div class="pd-arrow pd-arrow-right" onclick="navImg(1)">›</div>
-      <img src="assets/cap-magic-bing-black-1.jpg" alt="magic-bing-black 主图" id="mainImg">
+      <img loading="lazy" src="assets/cap-magic-bing-black-1.jpg" alt="magic-bing-black 主图" id="mainImg">
     </div>
   </div>
 </div>
@@ -159,14 +159,14 @@ img.nav-logo{height:24px;width:auto}
 <div class="pd-related-section">
   <div class="pd-related-title">Explore More</div>
   <div class="pd-related-grid">
-    <a class="pd-rel-card" href="product-ding-black.html"><div class="ph" style="background-image:url('assets/cap-ding-black-1.jpg')"></div><div class="info"><div class="rn">丁·玄 <span class="ar">→</span></div><div class="rp">¥ 139</div></div></a>
-    <a class="pd-rel-card" href="product-ding-blue.html"><div class="ph" style="background-image:url('assets/cap-ding-blue-1.jpg')"></div><div class="info"><div class="rn">丁·天青 <span class="ar">→</span></div><div class="rp">¥ 139</div></div></a>
-    <a class="pd-rel-card" href="product-magic-jia-black.html"><div class="ph" style="background-image:url('assets/cap-magic-jia-black-1.jpg')"></div><div class="info"><div class="rn">魔术贴·甲12 <span class="ar">→</span></div><div class="rp">¥ 239</div></div></a>
+    <a class="pd-rel-card" href="product-ding-black.html"><div class="ph" data-bg="assets/cap-ding-black-1.jpg"></div><div class="info"><div class="rn">丁·玄 <span class="ar">→</span></div><div class="rp">¥ 139</div></div></a>
+    <a class="pd-rel-card" href="product-ding-blue.html"><div class="ph" data-bg="assets/cap-ding-blue-1.jpg"></div><div class="info"><div class="rn">丁·天青 <span class="ar">→</span></div><div class="rp">¥ 139</div></div></a>
+    <a class="pd-rel-card" href="product-magic-jia-black.html"><div class="ph" data-bg="assets/cap-magic-jia-black-1.jpg"></div><div class="info"><div class="rn">魔术贴·甲12 <span class="ar">→</span></div><div class="rp">¥ 239</div></div></a>
   </div>
 </div>
 
 <div class="pd-footer">
-  <img src="assets/logo-white.png" alt="SHER12">
+  <img loading="lazy" src="assets/logo-white.png" alt="SHER12">
   <div class="copy">© 2026 SHER12 · KEEP THE HEAD UP</div>
 </div>
 
@@ -177,6 +177,24 @@ function swapImg(el,src){document.getElementById('mainImg').src=src;document.que
 function navImg(d){if(pdImgs.length===0)return;pdIdx=(pdIdx+d+pdImgs.length)%pdImgs.length;document.getElementById('mainImg').src=pdImgs[pdIdx];document.querySelectorAll('.pd-thumb').forEach(function(t,i){t.classList.toggle('active',i===pdIdx)})}
 document.addEventListener('keydown',function(e){if(e.key==='ArrowLeft')navImg(-1);if(e.key==='ArrowRight')navImg(1)});
 var touchX=0;var mi=document.getElementById('mainImg');if(mi){mi.addEventListener('touchstart',function(e){touchX=e.touches[0].clientX});mi.addEventListener('touchend',function(e){var dx=e.changedTouches[0].clientX-touchX;if(Math.abs(dx)>40)navImg(dx>0?-1:1)})}
+</script>
+<script>
+/* 背景图懒加载 */
+(function(){
+  var els = document.querySelectorAll('[data-bg]');
+  if (!els.length) return;
+  function apply(el){
+    el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
+    el.removeAttribute('data-bg');
+  }
+  if (!('IntersectionObserver' in window)) { els.forEach(apply); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { apply(e.target); io.unobserve(e.target); }
+    });
+  }, {rootMargin: '300px'});
+  els.forEach(function(el){ io.observe(el); });
+})();
 </script>
 </body>
 </html>

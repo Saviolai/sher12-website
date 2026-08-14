@@ -1,1 +1,19 @@
-<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=index.html#products"><title>Redirecting...</title></head><body></body></html>
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=index.html#products"><title>Redirecting...</title></head><body><script>
+/* 背景图懒加载 */
+(function(){
+  var els = document.querySelectorAll('[data-bg]');
+  if (!els.length) return;
+  function apply(el){
+    el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
+    el.removeAttribute('data-bg');
+  }
+  if (!('IntersectionObserver' in window)) { els.forEach(apply); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { apply(e.target); io.unobserve(e.target); }
+    });
+  }, {rootMargin: '300px'});
+  els.forEach(function(el){ io.observe(el); });
+})();
+</script>
+</body></html>

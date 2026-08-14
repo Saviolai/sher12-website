@@ -91,7 +91,7 @@ footer img{margin:0 auto 12px}
 <body>
 
 <nav class="nav">
-  <a href="index.html" class="logo"><img src="assets/logo-white.png" alt="SHER12" style="height:26px;width:auto"></a>
+  <a href="index.html" class="logo"><img loading="lazy" src="assets/logo-white.png" alt="SHER12" style="height:26px;width:auto"></a>
   <div class="nav-links" id="navLinks">
     <a href="index.html#code">品牌密码</a>
     <a href="index.html#fit">版型</a>
@@ -126,7 +126,7 @@ footer img{margin:0 auto 12px}
 </section>
 
 <footer>
-  <div><img src="assets/logo-white.png" alt="SHER12" style="height:32px;width:auto"></div>
+  <div><img loading="lazy" src="assets/logo-white.png" alt="SHER12" style="height:32px;width:auto"></div>
   <div>中国帽子本土设计 · 做中国人自己的帽饰品牌</div>
   <div style="margin-top:10px;opacity:.5">© 2026 SHER12</div>
 </footer>
@@ -209,11 +209,29 @@ document.getElementById('fitHeader').innerHTML=headerHtml;
 var gridHtml='';
 fit.products.forEach(function(p){
   gridHtml+='<a class="prod" href="'+p.href+'">';
-  gridHtml+='<div class="ph" style="background-image:url(\'assets/'+p.img+'\')"></div>';
+  gridHtml+='<div class="ph" data-bg="assets/'+p.img+'"></div>';
   gridHtml+='<div class="info"><div class="name">'+p.name+' <span class="arrow">&rarr;</span></div></div>';
   gridHtml+='</a>';
 });
 document.getElementById('prodGrid').innerHTML=gridHtml;
+</script>
+<script>
+/* 背景图懒加载 */
+(function(){
+  var els = document.querySelectorAll('[data-bg]');
+  if (!els.length) return;
+  function apply(el){
+    el.style.backgroundImage = "url('" + el.getAttribute('data-bg') + "')";
+    el.removeAttribute('data-bg');
+  }
+  if (!('IntersectionObserver' in window)) { els.forEach(apply); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if (e.isIntersecting) { apply(e.target); io.unobserve(e.target); }
+    });
+  }, {rootMargin: '300px'});
+  els.forEach(function(el){ io.observe(el); });
+})();
 </script>
 </body>
 </html>
