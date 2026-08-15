@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head>
+<head data-i18n-html="版型体系 — SHER12">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>版型体系 — SHER12</title>
@@ -93,13 +93,13 @@ footer img{margin:0 auto 12px}
 <nav class="nav">
   <a href="index.html" class="logo"><img loading="lazy" src="assets/logo-white.png" alt="SHER12" style="height:26px;width:auto"></a>
   <div class="nav-links" id="navLinks">
-    <a href="index.html#code">品牌密码</a>
-    <a href="index.html#fit">版型</a>
-    <a href="index.html#products">产品</a>
-    <a href="index.html#accessories">配件</a>
-    <a href="index.html#city">城市</a>
-    <a href="index.html#store">门店</a>
-    <a href="index.html#contact">联系</a>
+    <a href="index.html#code" data-i18n-html="品牌密码">品牌密码</a>
+    <a href="index.html#fit" data-i18n-html="版型">版型</a>
+    <a href="index.html#products" data-i18n-html="产品">产品</a>
+    <a href="index.html#accessories" data-i18n-html="配件">配件</a>
+    <a href="index.html#city" data-i18n-html="城市">城市</a>
+    <a href="index.html#store" data-i18n-html="门店">门店</a>
+    <a href="index.html#contact" data-i18n-html="联系">联系</a>
   </div>
   <button class="nav-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">☰</button>
 </nav>
@@ -107,27 +107,27 @@ footer img{margin:0 auto 12px}
 <section>
   <div class="sec-head">
     <div class="num">THE FIT SYSTEM</div>
-    <h2 id="fitTitle">版型体系</h2>
-    <p id="fitDesc">我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。</p>
+    <h2 id="fitTitle" data-i18n-html="版型体系">版型体系</h2>
+    <p id="fitDesc" data-i18n-html="我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。">我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。</p>
   </div>
 
   <div class="fit-tabs" id="fitTabs">
-    <a href="hattype.html?fit=jia" data-fit="jia">甲 · 平沿帽</a>
-    <a href="hattype.html?fit=yi" data-fit="yi">乙 · 弯沿帽</a>
-    <a href="hattype.html?fit=bing" data-fit="bing">丙 · 渔夫帽</a>
-    <a href="hattype.html?fit=ding" data-fit="ding">丁 · 瓜皮帽</a>
+    <a href="hattype.html?fit=jia" data-fit="jia" data-i18n-html="甲 · 平沿帽">甲 · 平沿帽</a>
+    <a href="hattype.html?fit=yi" data-fit="yi" data-i18n-html="乙 · 弯沿帽">乙 · 弯沿帽</a>
+    <a href="hattype.html?fit=bing" data-fit="bing" data-i18n-html="丙 · 渔夫帽">丙 · 渔夫帽</a>
+    <a href="hattype.html?fit=ding" data-fit="ding" data-i18n-html="丁 · 瓜皮帽">丁 · 瓜皮帽</a>
   </div>
 
   <div class="fit-header" id="fitHeader"></div>
 
   <div class="prod-grid" id="prodGrid"></div>
 
-  <a href="index.html#fit" class="back-btn">← 返回版型体系</a>
+  <a href="index.html#fit" class="back-btn" data-i18n-html="← 返回版型体系">← 返回版型体系</a>
 </section>
 
 <footer>
   <div><img loading="lazy" src="assets/logo-white.png" alt="SHER12" style="height:32px;width:auto"></div>
-  <div>中国帽子本土设计 · 做中国人自己的帽饰品牌</div>
+  <div data-i18n-html="中国帽子本土设计 · 做中国人自己的帽饰品牌">中国帽子本土设计 · 做中国人自己的帽饰品牌</div>
   <div style="margin-top:10px;opacity:.5">© 2026 SHER12</div>
 </footer>
 
@@ -233,5 +233,5 @@ document.getElementById('prodGrid').innerHTML=gridHtml;
   els.forEach(function(el){ io.observe(el); });
 })();
 </script>
-</body>
+<script src="i18n.js"></script></body>
 </html>
