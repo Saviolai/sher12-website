@@ -93,18 +93,17 @@
   function injectStyle() {
     if (document.getElementById('sher12-i18n-style')) return;
     var css =
-      '#sher12-i18n-switcher{display:inline-flex;align-items:center;gap:2px;' +
-      'margin-left:14px;padding:3px;border:1px solid currentColor;border-radius:999px;' +
-      'font-size:12px;line-height:1;letter-spacing:.02em;user-select:none;' +
-      'vertical-align:middle;}' +
+      '#sher12-i18n-switcher{display:inline-flex;align-items:flex-end;gap:0;' +
+      'margin-left:14px;user-select:none;vertical-align:middle;}' +
       '#sher12-i18n-switcher .i18n-btn{background:transparent;border:0;cursor:pointer;' +
-      'padding:5px 9px;border-radius:999px;color:inherit;font:inherit;opacity:.55;' +
-      'transition:opacity .15s ease;}' +
-      '#sher12-i18n-switcher .i18n-btn:hover{opacity:.9;}' +
-      '#sher12-i18n-switcher .i18n-btn.active{opacity:1;background:currentColor;' +
-      'color:#111;font-weight:600;}' +
+      'padding:4px 10px;border-bottom:2px solid transparent;color:inherit;font:inherit;' +
+      'font-size:12px;line-height:1.4;letter-spacing:.02em;opacity:.45;' +
+      'transition:opacity .15s ease,border-color .15s ease;}' +
+      '#sher12-i18n-switcher .i18n-btn:hover{opacity:.75;}' +
+      '#sher12-i18n-switcher .i18n-btn.active{opacity:1;border-bottom-color:currentColor;' +
+      'font-weight:500;}' +
       '@media (max-width:768px){#sher12-i18n-switcher{margin-left:8px;}' +
-      '#sher12-i18n-switcher .i18n-btn{padding:4px 7px;}}';
+      '#sher12-i18n-switcher .i18n-btn{padding:3px 7px;font-size:11px;}}';
     var st = document.createElement('style');
     st.id = 'sher12-i18n-style';
     st.textContent = css;
