@@ -102,7 +102,9 @@
       '#sher12-i18n-switcher .i18n-btn:hover{opacity:.75;}' +
       '#sher12-i18n-switcher .i18n-btn.active{opacity:1;border-bottom-color:currentColor;' +
       'font-weight:500;}' +
-      '@media (max-width:768px){#sher12-i18n-switcher{margin-left:8px;}' +
+      '@media (max-width:768px){' +
+      '#sher12-i18n-switcher{position:fixed;top:14px;right:52px;z-index:9998;' +
+      'margin-left:0;background:rgba(17,17,17,.92);padding:3px 6px;border-radius:4px;}' +
       '#sher12-i18n-switcher .i18n-btn{padding:3px 7px;font-size:11px;}}';
     var st = document.createElement('style');
     st.id = 'sher12-i18n-style';
