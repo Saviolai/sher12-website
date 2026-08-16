@@ -1,1702 +1,1892 @@
 {
-  "中国帽子本土设计 · 做中国人自己的帽饰品牌": {
-    "zh-CN": "中国帽子本土设计",
-    "zh-TW": "中國帽子本土設計",
-    "en": "Caps designed in China · A brand of our own"
-  },
-  "← 返回版型体系": {
-    "zh-CN": "← 返回版型体系",
-    "zh-TW": "← 返回版型體系",
-    "en": "← Back to Fit System"
-  },
-  "丁 · 瓜皮帽": {
-    "zh-CN": "丁 · 瓜皮帽",
-    "zh-TW": "丁 · 瓜皮帽",
-    "en": "Ding · Dome Cap"
-  },
-  "丙 · 渔夫帽": {
-    "zh-CN": "丙 · 渔夫帽",
-    "zh-TW": "丙 · 漁夫帽",
-    "en": "Bing · Bucket Hat"
-  },
-  "乙 · 弯沿帽": {
-    "zh-CN": "乙 · 弯沿帽",
-    "zh-TW": "乙 · 彎沿帽",
-    "en": "Yi · Curved-Brim Cap"
-  },
-  "甲 · 平沿帽": {
-    "zh-CN": "甲 · 平沿帽",
-    "zh-TW": "甲 · 平沿帽",
-    "en": "Jia · Flat-Brim Cap"
-  },
-  "我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。": {
-    "zh-CN": "我们用一套自己的语言定义帽子。四种帽型，四种扣法，不多不少。",
-    "zh-TW": "我們用一套自己的語言定義帽子。四種帽型，四種扣法，不多不少。",
-    "en": "We name our fits our own way. Four silhouettes, four clasps — a system, not a size chart."
-  },
-  "版型体系": {
-    "zh-CN": "版型体系",
-    "zh-TW": "版型體系",
-    "en": "Fit System"
-  },
-  "联系": {
-    "zh-CN": "联系",
-    "zh-TW": "聯繫",
-    "en": "Contact"
-  },
-  "门店": {
-    "zh-CN": "门店",
-    "zh-TW": "門店",
-    "en": "Shop"
-  },
-  "城市": {
-    "zh-CN": "城市",
-    "zh-TW": "城市",
-    "en": "City"
-  },
-  "配件": {
-    "zh-CN": "配件",
-    "zh-TW": "配件",
-    "en": "Accessories"
-  },
-  "产品": {
-    "zh-CN": "产品",
-    "zh-TW": "產品",
-    "en": "Products"
-  },
-  "版型": {
-    "zh-CN": "版型",
-    "zh-TW": "版型",
-    "en": "Fit"
-  },
-  "品牌密码": {
-    "zh-CN": "品牌密码",
-    "zh-TW": "品牌密碼",
-    "en": "Brand Code"
-  },
-  "版型体系 — SHER12": {
-    "zh-CN": "版型体系 — SHER12",
-    "zh-TW": "版型體系 — SHER12",
-    "en": "Fit System — SHER12"
-  },
-  "公众号 CapTure_by_SHER12": {
-    "zh-CN": "公众号 CapTure_by_SHER12",
-    "zh-TW": "公衆號 CapTure_by_SHER12",
-    "en": "WeChat: CapTure_by_SHER12"
-  },
-  "小红书 @Sher12": {
-    "zh-CN": "小红书 @Sher12",
-    "zh-TW": "小紅書 @Sher12",
-    "en": "Xiaohongshu @Sher12"
-  },
-  "微信：sher12cap": {
-    "zh-CN": "微信：sher12cap",
-    "zh-TW": "微信：sher12cap",
-    "en": "WeChat: sher12cap"
-  },
-  "定制、批发、联名合作，或者只是想认识一下——都欢迎。": {
-    "zh-CN": "定制、批发、联名合作，或者只是想认识一下——都欢迎。",
-    "zh-TW": "定製、批發、聯名合作，或者只是想認識一下——都歡迎。",
-    "en": "Bespoke, wholesale, collaborations — or you simply fancy a chat. All welcome."
-  },
-  "聊聊？": {
-    "zh-CN": "聊聊？",
-    "zh-TW": "聊聊？",
-    "en": "Fancy a chat?"
-  },
-  "📍 深圳市南山区华侨城创意文化园南区F1栋101E · 三分地印象": {
-    "zh-CN": "📍 深圳市南山区华侨城创意文化园南区F1栋101E · 三分地印象",
-    "zh-TW": "📍 深圳市南山區華僑城創意文化園南區F1棟101E · 三分地印象",
-    "en": "📍 101E, F1, OCT-LOFT South, Nanshan District, Shenzhen · \"Sandian\""
-  },
-  "想亲手试戴？来深圳华侨城，我们寄售在一家叫「三分地」的店。": {
-    "zh-CN": "想亲手试戴？来深圳华侨城，我们寄售在一家叫「三分地」的店。",
-    "zh-TW": "想親手試戴？來深圳華僑城，我們寄售在一家叫「三分地」的店。",
-    "en": "Want to try them on? We stock at a shop called \"Sandian\" in Shenzhen OCT."
-  },
-  "线下门店": {
-    "zh-CN": "线下门店",
-    "zh-TW": "線下門店",
-    "en": "Shop"
-  },
-  "加入 SHER12 CLUB": {
-    "zh-CN": "加入 SHER12 CLUB",
-    "zh-TW": "加入 SHER12 CLUB",
-    "en": "Join SHER12 CLUB"
-  },
-  "SHER12 不只是一顶帽子。是一群相信「中国设计能上头」的人。加进来，第一时间收到每一次发售。": {
-    "zh-CN": "SHER12 不只是一顶帽子。是一群相信中国设计的人。加入我们，每次发售不会错过。",
-    "zh-TW": "SHER12 不只是一頂帽子。是一羣相信中國設計的人。加入我們，每次發售不會錯過。",
-    "en": "SHER12 is more than a cap. We're a community who believe Chinese design has a place up there. Join us — first access to every release."
-  },
-  "戴帽的人，自成江湖": {
-    "zh-CN": "戴帽的人，自成江湖",
-    "zh-TW": "戴帽的人，自成江湖",
-    "en": "Caps on, we go our own way"
-  },
-  "帽刷": {
-    "zh-CN": "帽刷",
-    "zh-TW": "帽刷",
-    "en": "Cap Brush"
-  },
-  "CAP CLEANING 水基清洁剂": {
-    "zh-CN": "CAP CLEANING 水基清洁剂",
-    "zh-TW": "CAP CLEANING 水基清潔劑",
-    "en": "CAP CLEANING Water-Based Cleaner"
-  },
-  "MAODUN CAP GUARD 帽子防护剂": {
-    "zh-CN": "MAODUN CAP GUARD 帽子防护剂",
-    "zh-TW": "MAODUN CAP GUARD 帽子防護劑",
-    "en": "MAODUN CAP GUARD Cap Protector"
-  },
-  "ANTI-STATIC 除静电": {
-    "zh-CN": "ANTI-STATIC 除静电",
-    "zh-TW": "ANTI-STATIC 除靜電",
-    "en": "ANTI-STATIC De-Static"
-  },
-  "<span class=\"cl\">ANTI-STATIC 除静电</span><span class=\"cl\">MAODUN CAP GUARD 帽子防护剂</span><span class=\"cl\">CAP CLEANING 水基清洁剂</span><span class=\"cl\">帽刷</span>": {
-    "zh-CN": "<span class=\"cl\">ANTI-STATIC 除静电</span><span class=\"cl\">MAODUN CAP GUARD 帽子防护剂</span><span class=\"cl\">CAP CLEANING 水基清洁剂</span><span class=\"cl\">帽刷</span>",
-    "zh-TW": "<span class=\"cl\">ANTI-STATIC 除靜電</span><span class=\"cl\">MAODUN CAP GUARD 帽子防護劑</span><span class=\"cl\">CAP CLEANING 水基清潔劑</span><span class=\"cl\">帽刷</span>",
-    "en": "<span class=\"cl\">ANTI-STATIC De-Static</span><span class=\"cl\">MAODUN CAP GUARD Cap Protector</span><span class=\"cl\">CAP CLEANING Water-Based Cleaner</span><span class=\"cl\">Cap Brush</span>"
-  },
-  "30秒解决帽子皱纹。喷一喷，褶皱自然平复。帽子常备，出行无忧。": {
-    "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。出行常备。",
-    "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。出行常備。",
-    "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally. Keep one handy, wherever you go."
-  },
-  "除皱喷雾": {
-    "zh-CN": "除皱喷雾",
-    "zh-TW": "除皺噴霧",
-    "en": "Wrinkle Spray"
-  },
-  "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子焕新。": {
-    "zh-CN": "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
-    "zh-TW": "免水洗帽子清潔液。200ml 泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
-    "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
-  },
-  "清洁液": {
-    "zh-CN": "清洁液",
-    "zh-TW": "清潔液",
-    "en": "Cap Cleaner"
-  },
-  "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，毛屑灰尘全走。": {
-    "zh-CN": "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，干净利落。",
-    "zh-TW": "棒球帽專用去毛屑刷。可替換海綿刷頭，波浪握持設計。輕輕一刷，乾淨利落。",
-    "en": "A lint brush made for caps. Replaceable sponge head, wave-grip handle. One light sweep — lint and dust gone."
-  },
-  "好帽要养。帽刷 + 清洁液 + 除皱喷雾，让你的帽子一直像新的一样。": {
-    "zh-CN": "好帽需要照顾。帽刷 + 清洁液 + 除皱喷雾，让帽子保持如新。",
-    "zh-TW": "好帽需要照顧。帽刷 + 清潔液 + 除皺噴霧，讓帽子保持如新。",
-    "en": "Good caps deserve care. Brush + cleaner + wrinkle spray — keep every cap fresh."
-  },
-  "配件专区": {
-    "zh-CN": "配件专区",
-    "zh-TW": "配件專區",
-    "en": "Accessories"
-  },
-  "已上线": {
-    "zh-CN": "已上线",
-    "zh-TW": "已上線",
-    "en": "LIVE"
-  },
-  "成都": {
-    "zh-CN": "成都",
-    "zh-TW": "成都",
-    "en": "Chengdu"
-  },
-  "广州": {
-    "zh-CN": "广州",
-    "zh-TW": "廣州",
-    "en": "Guangzhou"
-  },
-  "上海": {
-    "zh-CN": "上海",
-    "zh-TW": "上海",
-    "en": "Shanghai"
-  },
-  "北京": {
-    "zh-CN": "北京",
-    "zh-TW": "北京",
-    "en": "Beijing"
-  },
-  "主场": {
-    "zh-CN": "主场",
-    "zh-TW": "主場",
-    "en": "Home Turf"
-  },
-  "深圳": {
-    "zh-CN": "深圳",
-    "zh-TW": "深圳",
-    "en": "Shenzhen"
-  },
-  "家乡": {
-    "zh-CN": "家乡",
-    "zh-TW": "家鄉",
-    "en": "Hometown"
-  },
-  "香港": {
-    "zh-CN": "香港",
-    "zh-TW": "香港",
-    "en": "Hong Kong, China"
-  },
-  "每一座城市，都有属于自己的颜色与脾气。把城市戴在头上。": {
-    "zh-CN": "每一座城市，都有自己的颜色与性格。戴上就好。",
-    "zh-TW": "每一座城市，都有自己的顏色與性格。戴上就好。",
-    "en": "Every city has its own colour and character. Wear yours."
-  },
-  "城市系列": {
-    "zh-CN": "城市系列",
-    "zh-TW": "城市系列",
-    "en": "City Series"
-  },
-  "戴帽的人，自成江湖。": {
-    "zh-CN": "戴帽的人，自成江湖。",
-    "zh-TW": "戴帽的人，自成江湖。",
-    "en": "Caps on, we go our own way."
-  },
-  "每一顶，都是为你做的": {
-    "zh-CN": "每一顶，都是为你做的",
-    "zh-TW": "每一頂，都是爲你做的",
-    "en": "Every cap, made for you"
-  },
-  "更多 +": {
-    "zh-CN": "更多 +",
-    "zh-TW": "更多 +",
-    "en": "More +"
-  },
-  "30秒解决帽子皱纹。喷一喷，褶皱自然平复。": {
-    "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。",
-    "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。",
-    "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally."
-  },
-  "CAP CLEANING 免水洗帽子清洁液。200ml 泡沫按压。": {
-    "zh-CN": "CAP CLEANING 免水洗帽子清洁液。200ml 泡沫按压。",
-    "zh-TW": "CAP CLEANING 免水洗帽子清潔液。200ml 泡沫按壓。",
-    "en": "CAP CLEANING — water-free cap cleaner. 200ml foam pump."
-  },
-  "CAP BRUSH 棒球帽专用去毛屑刷。KEEP THE HEAD UP。": {
-    "zh-CN": "CAP BRUSH 棒球帽专用去毛屑刷。",
-    "zh-TW": "CAP BRUSH 棒球帽專用去毛屑刷。",
-    "en": "CAP BRUSH — the lint brush for caps. KEEP THE HEAD UP."
-  },
-  "Sign 系列茶色款，复古温暖。": {
-    "zh-CN": "Sign 系列茶色款，复古温暖。",
-    "zh-TW": "Sign 系列茶色款，復古溫暖。",
-    "en": "Sign in Tea — retro and warm."
-  },
-  "Sign·茶色": {
-    "zh-CN": "Sign·茶色",
-    "zh-TW": "Sign·茶色",
-    "en": "Sign · Tea"
-  },
-  "Sign 系列黛绿款，沉静内敛。": {
-    "zh-CN": "Sign 系列黛绿款，沉静内敛。",
-    "zh-TW": "Sign 系列黛綠款，沉靜內斂。",
-    "en": "Sign in Jade Dark — calm and composed."
-  },
-  "Sign·黛绿": {
-    "zh-CN": "Sign·黛绿",
-    "zh-TW": "Sign·黛綠",
-    "en": "Sign · Jade Dark"
-  },
-  "Simple 基础系列，赭石配色。复古温暖，百搭之选。": {
-    "zh-CN": "Simple 基础系列，赭石配色。复古温暖，百搭。",
-    "zh-TW": "Simple 基礎系列，赭石配色。復古溫暖，百搭。",
-    "en": "Simple — Ochre. Retro, warm, goes with everything."
-  },
-  "Simple·赭石": {
-    "zh-CN": "Simple·赭石",
-    "zh-TW": "Simple·赭石",
-    "en": "Simple · Ochre"
-  },
-  "Simple 基础系列，玄色配色。品质本身即是态度。": {
-    "zh-CN": "Simple 基础系列，玄色配色。品质本身，不言而喻。",
-    "zh-TW": "Simple 基礎系列，玄色配色。品質本身，不言而喻。",
-    "en": "Simple — Xuan Black. Quality is the attitude."
-  },
-  "Simple·玄": {
-    "zh-CN": "Simple·玄",
-    "zh-TW": "Simple·玄",
-    "en": "Simple · Xuan Black"
-  },
-  "一只永远在加载懒惰的狗。不想起床、不想上班、永远在缓冲。": {
-    "zh-CN": "一只在加载的狗。不想起床，不想上班，一直在缓冲。",
-    "zh-TW": "一隻在加載的狗。不想起牀，不想上班，一直在緩衝。",
-    "en": "A dog stuck on loading. Won't get up, won't work, always buffering."
-  },
-  "LZLG 英斗狗": {
-    "zh-CN": "LZLG 英斗狗",
-    "zh-TW": "LZLG 英鬥狗",
-    "en": "LZLG Bulldog"
-  },
-  "独角兽，糖果绿紫，甜美梦幻。潮玩 IP × 帽饰文化。": {
-    "zh-CN": "独角兽，糖果绿紫，甜美梦幻。",
-    "zh-TW": "獨角獸，糖果綠紫，甜美夢幻。",
-    "en": "Unicorn in candy green & purple — sweet, dreamy. Art-toy meets cap culture."
-  },
-  "LZLD 独角兽": {
-    "zh-CN": "LZLD 独角兽",
-    "zh-TW": "LZLD 獨角獸",
-    "en": "LZLD Unicorn"
-  },
-  "蛇皮纹理印花，红蓝撞色，野性十足。": {
-    "zh-CN": "蛇皮纹理印花，红蓝撞色，一抹野性。",
-    "zh-TW": "蛇皮紋理印花，紅藍撞色，一抹野性。",
-    "en": "Snake-skin print, red-blue clash — a bold edge."
-  },
-  "蛇皮纹": {
-    "zh-CN": "蛇皮纹",
-    "zh-TW": "蛇皮紋",
-    "en": "Snake Skin"
-  },
-  "「广东」刺绣，深圳人的广东认同。大湾区的心声。": {
-    "zh-CN": "「广东」刺绣，深圳人的广东认同。根在南方。",
-    "zh-TW": "「廣東」刺繡，深圳人的廣東認同。根在南方。",
-    "en": "\"Guangdong\" embroidery — Shenzhen's roots, rooted in the south."
-  },
-  "广东": {
-    "zh-CN": "广东",
-    "zh-TW": "廣東",
-    "en": "Guangdong"
-  },
-  "双面桃夭月白渔夫帽，清新甜美。两面可穿。": {
-    "zh-CN": "双面桃夭月白渔夫帽，清新甜美。两面可穿。",
-    "zh-TW": "雙面桃夭月白漁夫帽，清新甜美。兩面可穿。",
-    "en": "Reversible bucket in Peach Bloom & Moon White — fresh, sweet, wear either way."
-  },
-  "渔夫帽·桃夭月白": {
-    "zh-CN": "渔夫帽·桃夭月白",
-    "zh-TW": "漁夫帽·桃夭月白",
-    "en": "Bucket Hat · Peach Bloom & Moon White"
-  },
-  "弯沿帽配魔术贴，全玄百搭。可调节，随时到位。": {
-    "zh-CN": "弯沿帽配魔术贴，全玄百搭。可调节。",
-    "zh-TW": "彎沿帽配魔術貼，全玄百搭。可調節。",
-    "en": "Curved-brim with Velcro — all Xuan Black, goes with everything. Adjustable."
-  },
-  "魔术贴·甲12": {
-    "zh-CN": "魔术贴·甲12",
-    "zh-TW": "魔術貼·甲12",
-    "en": "Velcro · Jia12"
-  },
-  "五片帽天青款，SHER 刺绣点睛。可调节。": {
-    "zh-CN": "五片帽天青款，SHER 刺绣。可调节。",
-    "zh-TW": "五片帽天青款，SHER 刺繡。可調節。",
-    "en": "5-panel cap in Sky Azure, finished with SHER embroidery. Adjustable."
-  },
-  "丁·天青": {
-    "zh-CN": "丁·天青",
-    "zh-TW": "丁·天青",
-    "en": "Ding · Sky Azure"
-  },
-  "五片帽玄色款，可调节。版型定生死。": {
-    "zh-CN": "五片帽玄色款，可调节。版型为先。",
-    "zh-TW": "五片帽玄色款，可調節。版型爲先。",
-    "en": "5-panel in Xuan Black. Adjustable. Fit is everything."
-  },
-  "丁·玄": {
-    "zh-CN": "丁·玄",
-    "zh-TW": "丁·玄",
-    "en": "Ding · Xuan Black"
-  },
-  "马赛克像素风 SHER 印花，数字时代的帽饰表达。": {
-    "zh-CN": "马赛克像素风 SHER 印花，数字时代的表达。",
-    "zh-TW": "馬賽克像素風 SHER 印花，數字時代的表達。",
-    "en": "Pixelated SHER print — cap design for the digital age."
-  },
-  "马赛克SHER": {
-    "zh-CN": "马赛克SHER",
-    "zh-TW": "馬賽克SHER",
-    "en": "Mosaic SHER"
-  },
-  "弯沿 Peace 乙0版，封闭帽型，不可调节。和平的另一种形态。": {
-    "zh-CN": "弯沿 Peace 乙0版，封闭帽型，不可调节。和平的另一种形态。",
-    "zh-TW": "彎沿 Peace 乙0版，封閉帽型，不可調節。和平的另一種形態。",
-    "en": "Curved-brim Peace Yi0 — closed, non-adjustable. Peace in another form."
-  },
-  "Peace 乙0": {
-    "zh-CN": "Peace 乙0",
-    "zh-TW": "Peace 乙0",
-    "en": "Peace Yi0"
-  },
-  "Sher 乙0版，封闭帽型。KEEP THE HEAD UP。": {
-    "zh-CN": "Sher 乙0版，封闭帽型。KEEP THE HEAD UP。",
-    "zh-TW": "Sher 乙0版，封閉帽型。KEEP THE HEAD UP。",
-    "en": "Sher Yi0 — a closed silhouette. KEEP THE HEAD UP."
-  },
-  "Sher 乙0": {
-    "zh-CN": "Sher 乙0",
-    "zh-TW": "Sher 乙0",
-    "en": "Sher Yi0"
-  },
-  "「拾贰」刺绣，十二即一切。帽字十二笔，中国十二笔。": {
-    "zh-CN": "「拾贰」刺绣，十二即一切。帽字十二笔，中国十二笔。",
-    "zh-TW": "「拾貳」刺繡，十二即一切。帽字十二筆，中國十二筆。",
-    "en": "\"Twelve\" embroidery — twelve is everything. 'Cap' has 12 strokes, so does 'China'."
-  },
-  "拾贰": {
-    "zh-CN": "拾贰",
-    "zh-TW": "拾貳",
-    "en": "Twelve"
-  },
-  "倒过来的和平。看不见的和平，才是真和平。": {
-    "zh-CN": "倒过来的和平。看不见的和平，才是真和平。",
-    "zh-TW": "倒過來的和平。看不見的和平，才是真和平。",
-    "en": "Peace, turned upside down. The peace you can't see — that's real peace."
-  },
-  "Sign 乙24H版，苍色低调。金属扣品质之选。": {
-    "zh-CN": "Sign 乙24H版，苍色低调。金属扣款。",
-    "zh-TW": "Sign 乙24H版，蒼色低調。金屬扣款。",
-    "en": "Sign Yi24H in Pale Cyan — understated. Metal buckle finish."
-  },
-  "Sign 乙24H·苍": {
-    "zh-CN": "Sign 乙24H·苍",
-    "zh-TW": "Sign 乙24H·蒼",
-    "en": "Sign Yi24H · Pale Cyan"
-  },
-  "Sher 系列月白天青配色，清爽街头风。月白帽身搭配天青帽檐，手写体 Sher logo。": {
-    "zh-CN": "Sher 系列月白天青配色，清爽街头风。月白帽身搭配天青帽檐，手写体 Sher logo。",
-    "zh-TW": "Sher 系列月白天青配色，清爽街頭風。月白帽身搭配天青帽檐，手寫體 Sher logo。",
-    "en": "Sher in Moon White & Sky Azure — clean street style. Moon-white crown, sky-azure brim, hand-written Sher logo."
-  },
-  "Sher·月白天青": {
-    "zh-CN": "Sher·月白天青",
-    "zh-TW": "Sher·月白天青",
-    "en": "Sher · Moon White & Sky Azure"
-  },
-  "魔术贴可调节渔夫帽，玄色配色。功能与风格兼具。": {
-    "zh-CN": "魔术贴可调节渔夫帽，玄色配色。功能与风格，都在。",
-    "zh-TW": "魔術貼可調節漁夫帽，玄色配色。功能與風格，都在。",
-    "en": "Velcro-adjustable bucket in Xuan Black — function meets style."
-  },
-  "魔术贴渔夫帽": {
-    "zh-CN": "魔术贴渔夫帽",
-    "zh-TW": "魔術貼漁夫帽",
-    "en": "Velcro Bucket Hat"
-  },
-  "Sign 乙24H版，霁蓝清爽。金属扣品质之选。": {
-    "zh-CN": "Sign 乙24H版，霁蓝清爽。金属扣款。",
-    "zh-TW": "Sign 乙24H版，霽藍清爽。金屬扣款。",
-    "en": "Sign Yi24H in Clear Sky — crisp. Metal buckle finish."
-  },
-  "Sign 乙24H·霁蓝": {
-    "zh-CN": "Sign 乙24H·霁蓝",
-    "zh-TW": "Sign 乙24H·霽藍",
-    "en": "Sign Yi24H · Clear Sky"
-  },
-  "绿色帽身+白色大字「發」覆盖全帽，帽檐下印「生财有道」。这顶帽子藏了一句脏话，但只有你自己知道。": {
-    "zh-CN": "绿色帽身+白色大字「發」覆盖全帽，帽檐下印「生财有道」。这顶帽子藏了一句脏话，但只有你自己知道。",
-    "zh-TW": "綠色帽身+白色大字「發」覆蓋全帽，帽檐下印「生財有道」。這頂帽子藏了一句髒話，但只有你自己知道。",
-    "en": "Green crown, white \"Fortune\" across the cap. Hidden under the brim: a secret only you know."
-  },
-  "發财": {
-    "zh-CN": "發财",
-    "zh-TW": "發財",
-    "en": "Fortune"
-  },
-  "向上，永远向上。8848.86m，一座山的高度，一种态度的高度。": {
-    "zh-CN": "只管向上。8848.86m，一座山的高度，一种心境的高度。",
-    "zh-TW": "只管向上。8848.86m，一座山的高度，一種心境的高度。",
-    "en": "Up, always up. 8,848.86m — the height of a mountain, the height of a mindset."
-  },
-  "珠峰": {
-    "zh-CN": "珠峰",
-    "zh-TW": "珠峯",
-    "en": "Everest"
-  },
-  "双面玄月白印花渔夫帽，SHER logo 醒目印花。": {
-    "zh-CN": "双面玄月白印花渔夫帽，SHER 印花。",
-    "zh-TW": "雙面玄月白印花漁夫帽，SHER 印花。",
-    "en": "Reversible bucket in Xuan Black & Moon White with a SHER print."
-  },
-  "渔夫帽·玄月白": {
-    "zh-CN": "渔夫帽·玄月白",
-    "zh-TW": "漁夫帽·玄月白",
-    "en": "Bucket Hat · Xuan Black & Moon White"
-  },
-  "Sign 系列海棠款，打破常规。": {
-    "zh-CN": "Sign 系列海棠款，不落俗套。",
-    "zh-TW": "Sign 系列海棠款，不落俗套。",
-    "en": "Sign in Crabapple — off the grid."
-  },
-  "Sign·海棠": {
-    "zh-CN": "Sign·海棠",
-    "zh-TW": "Sign·海棠",
-    "en": "Sign · Crabapple"
-  },
-  "Sign 系列藤萝款，浪漫神秘。": {
-    "zh-CN": "Sign 系列藤萝款，浪漫神秘。",
-    "zh-TW": "Sign 系列藤蘿款，浪漫神祕。",
-    "en": "Sign in Wisteria — romantic and mysterious."
-  },
-  "Sign·藤萝": {
-    "zh-CN": "Sign·藤萝",
-    "zh-TW": "Sign·藤蘿",
-    "en": "Sign · Wisteria"
-  },
-  "双面天青赭石渔夫帽，一面天青一面赭石，两种心情。": {
-    "zh-CN": "双面天青赭石渔夫帽，一面天青一面赭石，两种心情。",
-    "zh-TW": "雙面天青赭石漁夫帽，一面天青一面赭石，兩種心情。",
-    "en": "Reversible bucket — Sky Azure one side, Ochre the other. Two moods, one cap."
-  },
-  "渔夫帽·天青赭石": {
-    "zh-CN": "渔夫帽·天青赭石",
-    "zh-TW": "漁夫帽·天青赭石",
-    "en": "Bucket Hat · Sky Azure & Ochre"
-  },
-  "基础系列": {
-    "zh-CN": "基础系列",
-    "zh-TW": "基礎系列",
-    "en": "Simple Series"
-  },
-  "地理系列": {
-    "zh-CN": "地理系列",
-    "zh-TW": "地理系列",
-    "en": "Geo Series"
-  },
-  "图案系列": {
-    "zh-CN": "图案系列",
-    "zh-TW": "圖案系列",
-    "en": "Graphic Series"
-  },
-  "联名系列": {
-    "zh-CN": "联名系列",
-    "zh-TW": "聯名系列",
-    "en": "Collab Series"
-  },
-  "文化系列": {
-    "zh-CN": "文化系列",
-    "zh-TW": "文化系列",
-    "en": "Culture Series"
-  },
-  "全部": {
-    "zh-CN": "全部",
-    "zh-TW": "全部",
-    "en": "All"
-  },
-  "42款帽子。从文化到联名，从平沿帽到弯沿帽——总有一顶属于你。": {
-    "zh-CN": "42款帽子。从文化到联名，从平沿帽到弯沿帽——总有一顶属于你。",
-    "zh-TW": "42款帽子。從文化到聯名，從平沿帽到彎沿帽——總有一頂屬於你。",
-    "en": "42 caps. From culture to collaborations, flat-brim to curved — one of them is yours."
-  },
-  "我们的帽子": {
-    "zh-CN": "我们的帽子",
-    "zh-TW": "我們的帽子",
-    "en": "Our Caps"
-  },
-  "查看系列 →": {
-    "zh-CN": "查看系列 →",
-    "zh-TW": "查看系列 →",
-    "en": "View Series"
-  },
-  "不服": {
-    "zh-CN": "不服",
-    "zh-TW": "不服",
-    "en": "Defy"
-  },
-  "朱砂": {
-    "zh-CN": "朱砂",
-    "zh-TW": "硃砂",
-    "en": "Cinnabar"
-  },
-  "「中国」二字，金黄刺绣，酒红底；不服两个字，一种态度。把中国文化，戴在头上。": {
-    "zh-CN": "「中国」二字，金黄刺绣，酒红底；不服两个字。中国文化，戴上就好。",
-    "zh-TW": "「中國」二字，金黃刺繡，酒紅底；不服兩個字。中國文化，戴上就好。",
-    "en": "\"China\" in gold on wine red. Defy — one word. Culture, worn quietly."
-  },
-  "缥": {
-    "zh-CN": "缥",
-    "zh-TW": "縹",
-    "en": "Pale Azure"
-  },
-  "墨": {
-    "zh-CN": "墨",
-    "zh-TW": "墨",
-    "en": "Ink"
-  },
-  "倒过来的和平。看不见的和平，才是真和平。墨与缥，两种安静的姿态。": {
-    "zh-CN": "倒过来的和平。看不见的和平，才是真和平。墨与缥，两种安静的姿态。",
-    "zh-TW": "倒過來的和平。看不見的和平，才是真和平。墨與縹，兩種安靜的姿態。",
-    "en": "Peace, turned upside down. The peace you can't see is the real peace. Ink and Pale Azure — two quiet gestures."
-  },
-  "竹青": {
-    "zh-CN": "竹青",
-    "zh-TW": "竹青",
-    "en": "Bamboo Green"
-  },
-  "栗色": {
-    "zh-CN": "栗色",
-    "zh-TW": "慄色",
-    "en": "Chestnut"
-  },
-  "桃夭": {
-    "zh-CN": "桃夭",
-    "zh-TW": "桃夭",
-    "en": "Peach Bloom"
-  },
-  "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就是表态。三色可选：桃夭、栗色、竹青。": {
-    "zh-CN": "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就好。三色可选：桃夭、栗色、竹青。",
-    "zh-TW": "心形 SHER 刺繡，粉色帽檐。Love 系列——愛不需要翻譯，戴上就好。三色可選：桃夭、慄色、竹青。",
-    "en": "Heart SHER embroidery, pink brim. The Love series — love needs no translation; wearing it is the statement. Three colors: Peach Bloom, Chestnut, Bamboo Green."
-  },
-  "扣型编码：12 塑胶背扣 · 24 金属日字扣 · 0 封闭不可调 · 10 金属塑扣": {
-    "zh-CN": "扣型编码：12 塑胶背扣 · 24 金属日字扣 · 0 封闭不可调 · 10 金属塑扣",
-    "zh-TW": "扣型編碼：12 塑膠背扣 · 24 金屬日字扣 · 0 封閉不可調 · 10 金屬塑扣",
-    "en": "Closure Code: 12 plastic snap · 24 metal buckle · 0 fitted (fixed) · 10 metal snap"
-  },
-  "查看全部丁型 →": {
-    "zh-CN": "查看全部丁型 →",
-    "zh-TW": "查看全部丁型 →",
-    "en": "View All Type Ding"
-  },
-  "10 金属塑扣": {
-    "zh-CN": "10 金属塑扣",
-    "zh-TW": "10 金屬塑扣",
-    "en": "10 Metal Snap"
-  },
-  "<span>10 金属塑扣</span>": {
-    "zh-CN": "<span>10 金属塑扣</span>",
-    "zh-TW": "<span>10 金屬塑扣</span>",
-    "en": "<span>10 Metal Snap</span>"
-  },
-  "瓜皮帽": {
-    "zh-CN": "瓜皮帽",
-    "zh-TW": "瓜皮帽",
-    "en": "Dome Cap"
-  },
-  "丁": {
-    "zh-CN": "丁",
-    "zh-TW": "丁",
-    "en": "Ding"
-  },
-  "查看全部丙型 →": {
-    "zh-CN": "查看全部丙型 →",
-    "zh-TW": "查看全部丙型 →",
-    "en": "View All Type Bing"
-  },
-  "0 封闭不可调": {
-    "zh-CN": "0 封闭不可调",
-    "zh-TW": "0 封閉不可調",
-    "en": "0 Closed, Non-Adjustable"
-  },
-  "<span>10 金属塑扣</span><span>0 封闭不可调</span>": {
-    "zh-CN": "<span>10 金属塑扣</span><span>0 封闭不可调</span>",
-    "zh-TW": "<span>10 金屬塑扣</span><span>0 封閉不可調</span>",
-    "en": "<span>10 Metal Snap</span><span>0 Fitted</span>"
-  },
-  "渔夫帽": {
-    "zh-CN": "渔夫帽",
-    "zh-TW": "漁夫帽",
-    "en": "Bucket Hat"
-  },
-  "丙": {
-    "zh-CN": "丙",
-    "zh-TW": "丙",
-    "en": "Bing"
-  },
-  "查看全部乙型 →": {
-    "zh-CN": "查看全部乙型 →",
-    "zh-TW": "查看全部乙型 →",
-    "en": "View All Type Yi"
-  },
-  "24 金属日字扣": {
-    "zh-CN": "24 金属日字扣",
-    "zh-TW": "24 金屬日字扣",
-    "en": "24 Metal Buckle"
-  },
-  "<span>24 金属日字扣</span><span>0 封闭不可调</span>": {
-    "zh-CN": "<span>24 金属日字扣</span><span>0 封闭不可调</span>",
-    "zh-TW": "<span>24 金屬日字扣</span><span>0 封閉不可調</span>",
-    "en": "<span>24 Metal Buckle</span><span>0 Fitted</span>"
-  },
-  "弯沿帽": {
-    "zh-CN": "弯沿帽",
-    "zh-TW": "彎沿帽",
-    "en": "Curved-Brim Cap"
-  },
-  "乙": {
-    "zh-CN": "乙",
-    "zh-TW": "乙",
-    "en": "Yi"
-  },
-  "查看全部甲型 →": {
-    "zh-CN": "查看全部甲型 →",
-    "zh-TW": "查看全部甲型 →",
-    "en": "View All Type Jia"
-  },
-  "12 塑胶背扣": {
-    "zh-CN": "12 塑胶背扣",
-    "zh-TW": "12 塑膠背扣",
-    "en": "12 Plastic Snap"
-  },
-  "<span>24 金属日字扣</span><span>12 塑胶背扣</span>": {
-    "zh-CN": "<span>24 金属日字扣</span><span>12 塑胶背扣</span>",
-    "zh-TW": "<span>24 金屬日字扣</span><span>12 塑膠背扣</span>",
-    "en": "<span>24 Metal Buckle</span><span>12 Plastic Snap</span>"
-  },
-  "平沿帽": {
-    "zh-CN": "平沿帽",
-    "zh-TW": "平沿帽",
-    "en": "Flat-Brim Cap"
-  },
-  "甲": {
-    "zh-CN": "甲",
-    "zh-TW": "甲",
-    "en": "Jia"
-  },
-  "甲乙丙丁 · 版型体系": {
-    "zh-CN": "甲乙丙丁 · 版型体系",
-    "zh-TW": "甲乙丙丁 · 版型體系",
-    "en": "Jia Yi Bing Ding · The Fit System"
-  },
-  "来了就是深圳人。": {
-    "zh-CN": "来了就是深圳人。",
-    "zh-TW": "來了就是深圳人。",
-    "en": "Arrive, and you belong."
-  },
-  "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>来了就是深圳人。</b>": {
-    "zh-CN": "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>来了就是深圳人。</b>",
-    "zh-TW": "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>來了就是深圳人。</b>",
-    "en": "Sher = Shen (Shenzhen) + er (one who belongs) &nbsp;&nbsp;·&nbsp;&nbsp;<b>Arrive, and you belong.</b>"
-  },
-  "十二": {
-    "zh-CN": "十二",
-    "zh-TW": "十二",
-    "en": "Twelve"
-  },
-  "「帽」字<b>十二</b>笔，「中国」也是<b>十二</b>笔。<br>\n      一天<b>十二</b>个时辰，一年<b>十二</b>个月。<br>\n      不是随便挑的数字——是刻在中国文化里的密码。": {
-    "zh-CN": "「帽」字<b>十二</b>笔，「中国」也是<b>十二</b>笔。<br>\n      一天<b>十二</b>个时辰，一年<b>十二</b>个月。<br>\n      不是随便挑的数字——是刻在中国文化里的密码。",
-    "zh-TW": "「帽」字<b>十二</b>筆，「中國」也是<b>十二</b>筆。<br>\n      一天<b>十二</b>個時辰，一年<b>十二</b>個月。<br>\n      不是隨便挑的數字——是刻在中國文化裏的密碼。",
-    "en": "The word for 'cap' has <b>12</b> strokes in Chinese. So does 'China'.<br>\n      <b>12</b> hours in a day cycle, <b>12</b> months in a year.<br>\n      Not a random number — a code woven into the culture."
-  },
-  "为什么是<span class=\"hl\">十二</span>？": {
-    "zh-CN": "为什么是<span class=\"hl\">十二</span>？",
-    "zh-TW": "爲什麼是<span class=\"hl\">十二</span>？",
-    "en": "Why <span class=\"hl\">twelve</span>?"
-  },
-  "了解这个品牌 →": {
-    "zh-CN": "了解这个品牌 →",
-    "zh-TW": "了解這個品牌 →",
-    "en": "About the Brand"
-  },
-  "把中国文化的图腾，一针一线绣在帽子上。": {
-    "zh-CN": "把中国文化的纹样，绣在帽子上。",
-    "zh-TW": "把中國文化的紋樣，繡在帽子上。",
-    "en": "Stitching Chinese motifs onto every cap, thread by thread."
-  },
-  "中国人自己的帽饰品牌": {
-    "zh-CN": "中国人自己的帽饰品牌",
-    "zh-TW": "中國人自己的帽飾品牌",
-    "en": "A cap brand born in China"
-  },
-  "CapTure · 棒球帽文化志": {
-    "zh-CN": "CapTure · 棒球帽文化志",
-    "zh-TW": "CapTure · 棒球帽文化志",
-    "en": "CapTure · A Cap Culture Journal"
-  },
-  "心情": {
-    "zh-CN": "心情",
-    "zh-TW": "心情",
-    "en": "Mood"
-  },
-  "两个面，<br>两种<span>心情</span>。": {
-    "zh-CN": "两个面，<br>两种<span>心情</span>。",
-    "zh-TW": "兩個面，<br>兩種<span>心情</span>。",
-    "en": "Two sides,<br>two <span>moods</span>."
-  },
-  "SHER 织带": {
-    "zh-CN": "SHER 织带",
-    "zh-TW": "SHER 織帶",
-    "en": "SHER Webbing"
-  },
-  "内衬": {
-    "zh-CN": "内衬",
-    "zh-TW": "內襯",
-    "en": "Lining"
-  },
-  "黑 / 白印花": {
-    "zh-CN": "黑 / 白印花",
-    "zh-TW": "黑 / 白印花",
-    "en": "Black / White Print"
-  },
-  "颜色": {
-    "zh-CN": "颜色",
-    "zh-TW": "顏色",
-    "en": "Colour"
-  },
-  "渔夫帽 · 双面": {
-    "zh-CN": "渔夫帽 · 双面",
-    "zh-TW": "漁夫帽 · 雙面",
-    "en": "Bucket Hat · Reversible"
-  },
-  "帽型": {
-    "zh-CN": "帽型",
-    "zh-TW": "帽型",
-    "en": "Silhouette"
-  },
-  "双面 · 渔夫帽": {
-    "zh-CN": "双面 · 渔夫帽",
-    "zh-TW": "雙面 · 漁夫帽",
-    "en": "Reversible · Bucket Hat"
-  },
-  "线下试戴 · 深圳市南山区华侨城创意文化园南区F1栋101E 三分地印象": {
-    "zh-CN": "线下试戴 · 深圳市南山区华侨城创意文化园南区F1栋101E 三分地印象",
-    "zh-TW": "線下試戴 · 深圳市南山區華僑城創意文化園南區F1棟101E 三分地印象",
-    "en": "Try On In-Shop · 101E, F1, OCT-LOFT South, Nanshan, Shenzhen — \"Sandian\""
-  },
-  "更多款式": {
-    "zh-CN": "更多款式",
-    "zh-TW": "更多款式",
-    "en": "More Styles"
-  },
-  "立即了解": {
-    "zh-CN": "立即了解",
-    "zh-TW": "立即了解",
-    "en": "Learn More"
-  },
-  "← 返回产品": {
-    "zh-CN": "← 返回产品",
-    "zh-TW": "← 返回產品",
-    "en": "← Back to Products"
-  },
-  "渔夫帽·玄月白 — SHER12": {
-    "zh-CN": "渔夫帽·玄月白 — SHER12",
-    "zh-TW": "漁夫帽·玄月白 — SHER12",
-    "en": "Bucket Hat · Xuan Black & Moon White — SHER12"
-  },
-  "天青 / 赭石": {
-    "zh-CN": "天青 / 赭石",
-    "zh-TW": "天青 / 赭石",
-    "en": "Sky Azure / Ochre"
-  },
-  "渔夫帽·天青赭石 — SHER12": {
-    "zh-CN": "渔夫帽·天青赭石 — SHER12",
-    "zh-TW": "漁夫帽·天青赭石 — SHER12",
-    "en": "Bucket Hat · Sky Azure & Ochre — SHER12"
-  },
-  "粉 / 白": {
-    "zh-CN": "粉 / 白",
-    "zh-TW": "粉 / 白",
-    "en": "Pink / White"
-  },
-  "渔夫帽·桃夭月白 — SHER12": {
-    "zh-CN": "渔夫帽·桃夭月白 — SHER12",
-    "zh-TW": "漁夫帽·桃夭月白 — SHER12",
-    "en": "Bucket Hat · Peach Bloom & Moon White — SHER12"
-  },
-  "你自己": {
-    "zh-CN": "你自己",
-    "zh-TW": "你自己",
-    "en": "Yourself"
-  },
-  "爱惜你的帽子，<br>就是爱惜<span>你自己</span>。": {
-    "zh-CN": "爱惜你的帽子，<br>就是爱惜<span>你自己</span>。",
-    "zh-TW": "愛惜你的帽子，<br>就是愛惜<span>你自己</span>。",
-    "en": "Take care of your cap,<br>and you take care of <span>yourself</span>."
-  },
-  "所有帽型": {
-    "zh-CN": "所有帽型",
-    "zh-TW": "所有帽型",
-    "en": "All Silhouettes"
-  },
-  "适用": {
-    "zh-CN": "适用",
-    "zh-TW": "適用",
-    "en": "For"
-  },
-  "波浪握持": {
-    "zh-CN": "波浪握持",
-    "zh-TW": "波浪握持",
-    "en": "Wave-Grip Handle"
-  },
-  "设计": {
-    "zh-CN": "设计",
-    "zh-TW": "設計",
-    "en": "Design"
-  },
-  "可替换海绵刷头": {
-    "zh-CN": "可替换海绵刷头",
-    "zh-TW": "可替換海綿刷頭",
-    "en": "Replaceable Sponge Head"
-  },
-  "刷头": {
-    "zh-CN": "刷头",
-    "zh-TW": "刷頭",
-    "en": "Brush Head"
-  },
-  "去毛屑 / 除尘": {
-    "zh-CN": "去毛屑 / 除尘",
-    "zh-TW": "去毛屑 / 除塵",
-    "en": "Lint Removal / Dusting"
-  },
-  "功能": {
-    "zh-CN": "功能",
-    "zh-TW": "功能",
-    "en": "Function"
-  },
-  "CAP BRUSH 帽刷": {
-    "zh-CN": "CAP BRUSH 帽刷",
-    "zh-TW": "CAP BRUSH 帽刷",
-    "en": "CAP BRUSH Cap Brush"
-  },
-  "品名": {
-    "zh-CN": "品名",
-    "zh-TW": "品名",
-    "en": "Product Name"
-  },
-  "线下购买 · 华侨城三分地": {
-    "zh-CN": "线下购买 · 华侨城三分地",
-    "zh-TW": "線下購買 · 華僑城三分地",
-    "en": "Buy In-Shop · OCT \"Sandian\""
-  },
-  "更多配件": {
-    "zh-CN": "更多配件",
-    "zh-TW": "更多配件",
-    "en": "More Accessories"
-  },
-  "← 返回配件": {
-    "zh-CN": "← 返回配件",
-    "zh-TW": "← 返回配件",
-    "en": "← Back to Accessories"
-  },
-  "帽刷 — SHER12": {
-    "zh-CN": "帽刷 — SHER12",
-    "zh-TW": "帽刷 — SHER12",
-    "en": "Cap Brush — SHER12"
-  },
-  "中国·朱砂": {
-    "zh-CN": "中国·朱砂",
-    "zh-TW": "中國·硃砂",
-    "en": "China · Cinnabar"
-  },
-  "本能": {
-    "zh-CN": "本能",
-    "zh-TW": "本能",
-    "en": "Instinct"
-  },
-  "不服，<br>是一种<span>本能</span>。": {
-    "zh-CN": "不服，<br>是一种<span>本能</span>。",
-    "zh-TW": "不服，<br>是一種<span>本能</span>。",
-    "en": "Defy,<br>is an <span>instinct</span>."
-  },
-  "玄 / 白绣": {
-    "zh-CN": "玄 / 白绣",
-    "zh-TW": "玄 / 白繡",
-    "en": "Xuan Black / White Embroidery"
-  },
-  "平沿帽 · 甲24": {
-    "zh-CN": "平沿帽 · 甲24",
-    "zh-TW": "平沿帽 · 甲24",
-    "en": "Flat-Brim Cap · Jia24"
-  },
-  "甲24 · 平沿帽": {
-    "zh-CN": "甲24 · 平沿帽",
-    "zh-TW": "甲24 · 平沿帽",
-    "en": "Jia24 · Flat-Brim Cap"
-  },
-  "两个字，一种态度。戴上就是表态。": {
-    "zh-CN": "两个字，不多说。戴上就好。",
-    "zh-TW": "兩個字，不多說。戴上就好。",
-    "en": "One word. Put it on."
-  },
-  "不服 — SHER12": {
-    "zh-CN": "不服 — SHER12",
-    "zh-TW": "不服 — SHER12",
-    "en": "Defy — SHER12"
-  },
-  "力量": {
-    "zh-CN": "力量",
-    "zh-TW": "力量",
-    "en": "Power"
-  },
-  "少即是多，<br>简单即是<span>力量</span>。": {
-    "zh-CN": "少即是多，<br>简单即是<span>力量</span>。",
-    "zh-TW": "少即是多，<br>簡單即是<span>力量</span>。",
-    "en": "Less is more —<br>simplicity is <span>power</span>."
-  },
-  "玄": {
-    "zh-CN": "玄",
-    "zh-TW": "玄",
-    "en": "Xuan Black"
-  },
-  "弯沿帽 · 乙24H": {
-    "zh-CN": "弯沿帽 · 乙24H",
-    "zh-TW": "彎沿帽 · 乙24H",
-    "en": "Curved-Brim Cap · Yi24H"
-  },
-  "乙24H · 弯沿帽": {
-    "zh-CN": "乙24H · 弯沿帽",
-    "zh-TW": "乙24H · 彎沿帽",
-    "en": "Yi24H · Curved-Brim Cap"
-  },
-  "Simple·玄 — SHER12": {
-    "zh-CN": "Simple·玄 — SHER12",
-    "zh-TW": "Simple·玄 — SHER12",
-    "en": "Simple · Xuan Black — SHER12"
-  },
-  "赭石": {
-    "zh-CN": "赭石",
-    "zh-TW": "赭石",
-    "en": "Ochre"
-  },
-  "Simple·赭石 — SHER12": {
-    "zh-CN": "Simple·赭石 — SHER12",
-    "zh-TW": "Simple·赭石 — SHER12",
-    "en": "Simple · Ochre — SHER12"
-  },
-  "精神": {
-    "zh-CN": "精神",
-    "zh-TW": "精神",
-    "en": "Spirit"
-  },
-  "帽子干净了，<br>整个人都<span>精神</span>了。": {
-    "zh-CN": "帽子干净了，<br>整个人都<span>精神</span>了。",
-    "zh-TW": "帽子乾淨了，<br>整個人都<span>精神</span>了。",
-    "en": "A clean cap,<br>a <span>sharper</span> you."
-  },
-  "水基温和去污": {
-    "zh-CN": "水基温和去污",
-    "zh-TW": "水基溫和去污",
-    "en": "Water-based, gentle cleaning"
-  },
-  "配方": {
-    "zh-CN": "配方",
-    "zh-TW": "配方",
-    "en": "Formula"
-  },
-  "免水洗 / 泡沫按压": {
-    "zh-CN": "免水洗 / 泡沫按压",
-    "zh-TW": "免水洗 / 泡沫按壓",
-    "en": "Water-Free / Foam Pump"
-  },
-  "类型": {
-    "zh-CN": "类型",
-    "zh-TW": "類型",
-    "en": "Type"
-  },
-  "容量": {
-    "zh-CN": "容量",
-    "zh-TW": "容量",
-    "en": "Volume"
-  },
-  "CAP CLEANING 清洁液": {
-    "zh-CN": "CAP CLEANING 清洁液",
-    "zh-TW": "CAP CLEANING 清潔液",
-    "en": "CAP CLEANING Cap Cleaner"
-  },
-  "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子焕新。": {
-    "zh-CN": "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
-    "zh-TW": "免水洗帽子清潔液。200ml泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
-    "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
-  },
-  "清洁液 — SHER12": {
-    "zh-CN": "清洁液 — SHER12",
-    "zh-TW": "清潔液 — SHER12",
-    "en": "Cap Cleaner — SHER12"
-  },
-  "生死": {
-    "zh-CN": "生死",
-    "zh-TW": "生死",
-    "en": "Everything"
-  },
-  "版型，<br>定<span>生死</span>。": {
-    "zh-CN": "版型，<br>定<span>生死</span>。",
-    "zh-TW": "版型，<br>定<span>生死</span>。",
-    "en": "The fit,<br>decides <span>everything</span>."
-  },
-  "瓜皮帽 · 丁10": {
-    "zh-CN": "瓜皮帽 · 丁10",
-    "zh-TW": "瓜皮帽 · 丁10",
-    "en": "Dome Cap · Ding10"
-  },
-  "丁10 · 瓜皮帽": {
-    "zh-CN": "丁10 · 瓜皮帽",
-    "zh-TW": "丁10 · 瓜皮帽",
-    "en": "Ding10 · Dome Cap"
-  },
-  "丁·玄 — SHER12": {
-    "zh-CN": "丁·玄 — SHER12",
-    "zh-TW": "丁·玄 — SHER12",
-    "en": "Ding · Xuan Black — SHER12"
-  },
-  "天青": {
-    "zh-CN": "天青",
-    "zh-TW": "天青",
-    "en": "Sky Azure"
-  },
-  "丁·天青 — SHER12": {
-    "zh-CN": "丁·天青 — SHER12",
-    "zh-TW": "丁·天青 — SHER12",
-    "en": "Ding · Sky Azure — SHER12"
-  },
-  "向上": {
-    "zh-CN": "向上",
-    "zh-TW": "向上",
-    "en": "Up"
-  },
-  "向上，<br>永远<span>向上</span>。": {
-    "zh-CN": "向上，<br>永远<span>向上</span>。",
-    "zh-TW": "向上，<br>永遠<span>向上</span>。",
-    "en": "Up,<br>always <span>up</span>."
-  },
-  "白 / 灰蓝": {
-    "zh-CN": "白 / 灰蓝",
-    "zh-TW": "白 / 灰藍",
-    "en": "White / Grey Blue"
-  },
-  "弯沿帽 · 乙12": {
-    "zh-CN": "弯沿帽 · 乙12",
-    "zh-TW": "彎沿帽 · 乙12",
-    "en": "Curved-Brim Cap · Yi12"
-  },
-  "乙12 · 弯沿帽": {
-    "zh-CN": "乙12 · 弯沿帽",
-    "zh-TW": "乙12 · 彎沿帽",
-    "en": "Yi12 · Curved-Brim Cap"
-  },
-  "珠峰 — SHER12": {
-    "zh-CN": "珠峰 — SHER12",
-    "zh-TW": "珠峯 — SHER12",
-    "en": "Everest — SHER12"
-  },
-  "心声": {
-    "zh-CN": "心声",
-    "zh-TW": "心聲",
-    "en": "Voice"
-  },
-  "港澳人的心声，<br>也是中国人的<span>心声</span>。": {
-    "zh-CN": "港澳人的声音，<br>也是中国人的<span>声音</span>。",
-    "zh-TW": "港澳人的聲音，<br>也是中國人的<span>聲音</span>。",
-    "en": "The voice of Hong Kong and Macao,<br>is the <span>voice</span> of China, too."
-  },
-  "金 / 满印": {
-    "zh-CN": "金 / 满印",
-    "zh-TW": "金 / 滿印",
-    "en": "Gold / Full Print"
-  },
-  "弯沿帽 · 乙24": {
-    "zh-CN": "弯沿帽 · 乙24",
-    "zh-TW": "彎沿帽 · 乙24",
-    "en": "Curved-Brim Cap · Yi24"
-  },
-  "乙24 · 弯沿帽": {
-    "zh-CN": "乙24 · 弯沿帽",
-    "zh-TW": "乙24 · 彎沿帽",
-    "en": "Yi24 · Curved-Brim Cap"
-  },
-  "發财 — SHER12": {
-    "zh-CN": "發财 — SHER12",
-    "zh-TW": "發財 — SHER12",
-    "en": "Fortune — SHER12"
-  },
-  "浪漫": {
-    "zh-CN": "浪漫",
-    "zh-TW": "浪漫",
-    "en": "Romance"
-  },
-  "像素，<br>是数字时代的<span>浪漫</span>。": {
-    "zh-CN": "像素，<br>是数字时代的<span>浪漫</span>。",
-    "zh-TW": "像素，<br>是數字時代的<span>浪漫</span>。",
-    "en": "Pixels,<br>the <span>romance</span> of the digital age."
-  },
-  "浅卡其": {
-    "zh-CN": "浅卡其",
-    "zh-TW": "淺卡其",
-    "en": "Light Khaki"
-  },
-  "马赛克SHER — SHER12": {
-    "zh-CN": "马赛克SHER — SHER12",
-    "zh-TW": "馬賽克SHER — SHER12",
-    "en": "Mosaic SHER — SHER12"
-  },
-  "归属": {
-    "zh-CN": "归属",
-    "zh-TW": "歸屬",
-    "en": "Belonging"
-  },
-  "广东，<br>是一种<span>归属</span>。": {
-    "zh-CN": "广东，<br>是一种<span>归属</span>。",
-    "zh-TW": "廣東，<br>是一種<span>歸屬</span>。",
-    "en": "Guangdong,<br>is <span>belonging</span>."
-  },
-  "黑 / 白绣": {
-    "zh-CN": "黑 / 白绣",
-    "zh-TW": "黑 / 白繡",
-    "en": "Black / White Embroidery"
-  },
-  "广东 — SHER12": {
-    "zh-CN": "广东 — SHER12",
-    "zh-TW": "廣東 — SHER12",
-    "en": "Guangdong — SHER12"
-  },
-  "Peace·缥": {
-    "zh-CN": "Peace·缥",
-    "zh-TW": "Peace·縹",
-    "en": "Peace · Pale Azure"
-  },
-  "Love·桃夭": {
-    "zh-CN": "Love·桃夭",
-    "zh-TW": "Love·桃夭",
-    "en": "Love · Peach Bloom"
-  },
-  "Love·竹青": {
-    "zh-CN": "Love·竹青",
-    "zh-TW": "Love·竹青",
-    "en": "Love · Bamboo Green"
-  },
-  "翻译": {
-    "zh-CN": "翻译",
-    "zh-TW": "翻譯",
-    "en": "Translation"
-  },
-  "爱，<br>不需要<span>翻译</span>。": {
-    "zh-CN": "爱，<br>不需要<span>翻译</span>。",
-    "zh-TW": "愛，<br>不需要<span>翻譯</span>。",
-    "en": "Love,<br>needs no <span>translation</span>."
-  },
-  "棕色 SHER 织带": {
-    "zh-CN": "棕色 SHER 织带",
-    "zh-TW": "棕色 SHER 織帶",
-    "en": "Brown SHER Webbing"
-  },
-  "扣具": {
-    "zh-CN": "扣具",
-    "zh-TW": "扣具",
-    "en": "Clasp"
-  },
-  "心形 SHER · 12": {
-    "zh-CN": "心形 SHER · 12",
-    "zh-TW": "心形 SHER · 12",
-    "en": "Heart SHER · 12"
-  },
-  "刺绣": {
-    "zh-CN": "刺绣",
-    "zh-TW": "刺繡",
-    "en": "Embroidery"
-  },
-  "米白 / 棕": {
-    "zh-CN": "米白 / 棕",
-    "zh-TW": "米白 / 棕",
-    "en": "Cream / Brown"
-  },
-  "弯沿帽 · 乙24S": {
-    "zh-CN": "弯沿帽 · 乙24S",
-    "zh-TW": "彎沿帽 · 乙24S",
-    "en": "Curved-Brim Cap · Yi24S"
-  },
-  "乙24S · 弯沿帽": {
-    "zh-CN": "乙24S · 弯沿帽",
-    "zh-TW": "乙24S · 彎沿帽",
-    "en": "Yi24S · Curved-Brim Cap"
-  },
-  "绿": {
-    "zh-CN": "绿",
-    "zh-TW": "綠",
-    "en": "Green"
-  },
-  "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">绿</span>": {
-    "zh-CN": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">绿</span>",
-    "zh-TW": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">綠</span>",
-    "en": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">Green</span>"
-  },
-  "棕": {
-    "zh-CN": "棕",
-    "zh-TW": "棕",
-    "en": "Brown"
-  },
-  "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>": {
-    "zh-CN": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>",
-    "zh-TW": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>",
-    "en": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">Brown</span>"
-  },
-  "粉": {
-    "zh-CN": "粉",
-    "zh-TW": "粉",
-    "en": "Pink"
-  },
-  "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>": {
-    "zh-CN": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>",
-    "zh-TW": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>",
-    "en": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">Pink</span>"
-  },
-  "米白帽身，棕色帽檐。正面心形 SHER 刺绣，侧面棕色 12 标志。银色金属日字扣，扣心 12。内衬棕色 SHER 交叉织带。": {
-    "zh-CN": "米白帽身，棕色帽檐。正面心形 SHER 刺绣，侧面棕色 12 标志。银色金属日字扣，扣心 12。内衬棕色 SHER 交叉织带。",
-    "zh-TW": "米白帽身，棕色帽檐。正面心形 SHER 刺繡，側面棕色 12 標誌。銀色金屬日字扣，扣心 12。內襯棕色 SHER 交叉織帶。",
-    "en": "Cream crown, brown brim. Heart SHER embroidery up front, brown 12 on the side. Silver metal bar buckle with 12 at the clasp. Brown SHER cross-webbing lining."
-  },
-  "Love·栗色": {
-    "zh-CN": "Love·栗色",
-    "zh-TW": "Love·慄色",
-    "en": "Love · Chestnut"
-  },
-  "Love·栗色 — SHER12": {
-    "zh-CN": "Love·栗色 — SHER12",
-    "zh-TW": "Love·慄色 — SHER12",
-    "en": "Love · Chestnut — SHER12"
-  },
-  "绿色 SHER 织带": {
-    "zh-CN": "绿色 SHER 织带",
-    "zh-TW": "綠色 SHER 織帶",
-    "en": "Green SHER Webbing"
-  },
-  "米白 / 绿": {
-    "zh-CN": "米白 / 绿",
-    "zh-TW": "米白 / 綠",
-    "en": "Cream / Green"
-  },
-  "米白帽身，绿色帽檐。正面心形 SHER 刺绣，侧面绿色 12 标志。银色金属日字扣，扣心 12。内衬绿色 SHER 交叉织带。": {
-    "zh-CN": "米白帽身，绿色帽檐。正面心形 SHER 刺绣，侧面绿色 12 标志。银色金属日字扣，扣心 12。内衬绿色 SHER 交叉织带。",
-    "zh-TW": "米白帽身，綠色帽檐。正面心形 SHER 刺繡，側面綠色 12 標誌。銀色金屬日字扣，扣心 12。內襯綠色 SHER 交叉織帶。",
-    "en": "Cream crown, green brim. Heart SHER embroidery up front, green 12 on the side. Silver metal bar buckle with 12 at the clasp. Green SHER cross-webbing lining."
-  },
-  "Love·竹青 — SHER12": {
-    "zh-CN": "Love·竹青 — SHER12",
-    "zh-TW": "Love·竹青 — SHER12",
-    "en": "Love · Bamboo Green — SHER12"
-  },
-  "粉色 SHER 织带": {
-    "zh-CN": "粉色 SHER 织带",
-    "zh-TW": "粉色 SHER 織帶",
-    "en": "Pink SHER Webbing"
-  },
-  "米白 / 粉": {
-    "zh-CN": "米白 / 粉",
-    "zh-TW": "米白 / 粉",
-    "en": "Cream / Pink"
-  },
-  "米白帽身，粉色帽檐。正面心形 SHER 刺绣，侧面粉色 12 标志。银色金属日字扣，扣心 12。内衬粉色 SHER 交叉织带。": {
-    "zh-CN": "米白帽身，粉色帽檐。正面心形 SHER 刺绣，侧面粉色 12 标志。银色金属日字扣，扣心 12。内衬粉色 SHER 交叉织带。",
-    "zh-TW": "米白帽身，粉色帽檐。正面心形 SHER 刺繡，側麵粉色 12 標誌。銀色金屬日字扣，扣心 12。內襯粉色 SHER 交叉織帶。",
-    "en": "Cream crown, pink brim. Heart SHER embroidery up front, pink 12 on the side. Silver metal bar buckle with 12 at the clasp. Pink SHER cross-webbing lining."
-  },
-  "Love·桃夭 — SHER12": {
-    "zh-CN": "Love·桃夭 — SHER12",
-    "zh-TW": "Love·桃夭 — SHER12",
-    "en": "Love · Peach Bloom — SHER12"
-  },
-  "事": {
-    "zh-CN": "事",
-    "zh-TW": "事",
-    "en": "Business"
-  },
-  "做梦，<br>是认真的<span>事</span>。": {
-    "zh-CN": "做梦，<br>是认真的<span>事</span>。",
-    "zh-TW": "做夢，<br>是認真的<span>事</span>。",
-    "en": "Dreaming,<br>is serious <span>business</span>."
-  },
-  "糖果绿紫": {
-    "zh-CN": "糖果绿紫",
-    "zh-TW": "糖果綠紫",
-    "en": "Candy Green & Purple"
-  },
-  "弯沿帽 · 乙10": {
-    "zh-CN": "弯沿帽 · 乙10",
-    "zh-TW": "彎沿帽 · 乙10",
-    "en": "Curved-Brim Cap · Yi10"
-  },
-  "乙10 · 弯沿帽": {
-    "zh-CN": "乙10 · 弯沿帽",
-    "zh-TW": "乙10 · 彎沿帽",
-    "en": "Yi10 · Curved-Brim Cap"
-  },
-  "图案": {
-    "zh-CN": "图案",
-    "zh-TW": "圖案",
-    "en": "Graphic"
-  },
-  "LZLD 独角兽 — SHER12": {
-    "zh-CN": "LZLD 独角兽 — SHER12",
-    "zh-TW": "LZLD 獨角獸 — SHER12",
-    "en": "LZLD Unicorn — SHER12"
-  },
-  "憋着": {
-    "zh-CN": "憋着",
-    "zh-TW": "憋着",
-    "en": "Hold In"
-  },
-  "吼出来，<br>别<span>憋着</span>。": {
-    "zh-CN": "吼出来，<br>别<span>憋着</span>。",
-    "zh-TW": "吼出來，<br>別<span>憋着</span>。",
-    "en": "Let it out,<br>don't hold it <span>in</span>."
-  },
-  "LZLG 英斗狗 — SHER12": {
-    "zh-CN": "LZLG 英斗狗 — SHER12",
-    "zh-TW": "LZLG 英鬥狗 — SHER12",
-    "en": "LZLG Bulldog — SHER12"
-  },
-  "自由": {
-    "zh-CN": "自由",
-    "zh-TW": "自由",
-    "en": "Freedom"
-  },
-  "调节，<br>是一种<span>自由</span>。": {
-    "zh-CN": "调节，<br>是一种<span>自由</span>。",
-    "zh-TW": "調節，<br>是一種<span>自由</span>。",
-    "en": "Adjustable,<br>is <span>freedom</span>."
-  },
-  "渔夫帽 · 魔术贴": {
-    "zh-CN": "渔夫帽 · 魔术贴",
-    "zh-TW": "漁夫帽 · 魔術貼",
-    "en": "Bucket Hat · Velcro"
-  },
-  "魔术贴 · 渔夫帽": {
-    "zh-CN": "魔术贴 · 渔夫帽",
-    "zh-TW": "魔術貼 · 漁夫帽",
-    "en": "Velcro · Bucket Hat"
-  },
-  "魔术贴渔夫帽 — SHER12": {
-    "zh-CN": "魔术贴渔夫帽 — SHER12",
-    "zh-TW": "魔術貼漁夫帽 — SHER12",
-    "en": "Velcro Bucket Hat — SHER12"
-  },
-  "平沿帽 · 甲12": {
-    "zh-CN": "平沿帽 · 甲12",
-    "zh-TW": "平沿帽 · 甲12",
-    "en": "Flat-Brim Cap · Jia12"
-  },
-  "甲12 · 平沿帽": {
-    "zh-CN": "甲12 · 平沿帽",
-    "zh-TW": "甲12 · 平沿帽",
-    "en": "Jia12 · Flat-Brim Cap"
-  },
-  "魔术贴·甲12 — SHER12": {
-    "zh-CN": "魔术贴·甲12 — SHER12",
-    "zh-TW": "魔術貼·甲12 — SHER12",
-    "en": "Velcro · Jia12 — SHER12"
-  },
-  "真和平": {
-    "zh-CN": "真和平",
-    "zh-TW": "真和平",
-    "en": "Real Peace"
-  },
-  "看不见的和平，<br>才是<span>真和平</span>。": {
-    "zh-CN": "看不见的和平，<br>才是<span>真和平</span>。",
-    "zh-TW": "看不見的和平，<br>才是<span>真和平</span>。",
-    "en": "Peace you can't see,<br>is <span>real peace</span>."
-  },
-  "弯沿帽 · 乙0": {
-    "zh-CN": "弯沿帽 · 乙0",
-    "zh-TW": "彎沿帽 · 乙0",
-    "en": "Curved-Brim Cap · Yi0"
-  },
-  "乙0 · 弯沿帽": {
-    "zh-CN": "乙0 · 弯沿帽",
-    "zh-TW": "乙0 · 彎沿帽",
-    "en": "Yi0 · Curved-Brim Cap"
-  },
-  "Peace 乙0 — SHER12": {
-    "zh-CN": "Peace 乙0 — SHER12",
-    "zh-TW": "Peace 乙0 — SHER12",
-    "en": "Peace Yi0 — SHER12"
-  },
-  "Peace，全墨沉稳。": {
-    "zh-CN": "Peace，全墨沉稳。",
-    "zh-TW": "Peace，全墨沉穩。",
-    "en": "Peace — all Ink, composed."
-  },
-  "Peace·墨": {
-    "zh-CN": "Peace·墨",
-    "zh-TW": "Peace·墨",
-    "en": "Peace · Ink"
-  },
-  "Peace·墨 — SHER12": {
-    "zh-CN": "Peace·墨 — SHER12",
-    "zh-TW": "Peace·墨 — SHER12",
-    "en": "Peace · Ink — SHER12"
-  },
-  "Peace，蓝色款。和平的新表达。": {
-    "zh-CN": "Peace，蓝色款。和平的新表达。",
-    "zh-TW": "Peace，藍色款。和平的新表達。",
-    "en": "Peace — the blue edition. Peace, re-expressed."
-  },
-  "Peace·缥 — SHER12": {
-    "zh-CN": "Peace·缥 — SHER12",
-    "zh-TW": "Peace·縹 — SHER12",
-    "en": "Peace · Pale Azure — SHER12"
-  },
-  "深圳人": {
-    "zh-CN": "深圳人",
-    "zh-TW": "深圳人",
-    "en": "Shenzhener"
-  },
-  "来了，<br>就是<span>深圳人</span>。": {
-    "zh-CN": "来了，<br>就是<span>深圳人</span>。",
-    "zh-TW": "來了，<br>就是<span>深圳人</span>。",
-    "en": "Arrive,<br>and you <span>belong</span>."
-  },
-  "Sher 乙0 — SHER12": {
-    "zh-CN": "Sher 乙0 — SHER12",
-    "zh-TW": "Sher 乙0 — SHER12",
-    "en": "Sher Yi0 — SHER12"
-  },
-  "白蓝": {
-    "zh-CN": "白蓝",
-    "zh-TW": "白藍",
-    "en": "White / Blue"
-  },
-  "Sher·月白天青 — SHER12": {
-    "zh-CN": "Sher·月白天青 — SHER12",
-    "zh-TW": "Sher·月白天青 — SHER12",
-    "en": "Sher · Moon White & Sky Azure — SHER12"
-  },
-  "名字": {
-    "zh-CN": "名字",
-    "zh-TW": "名字",
-    "en": "Name"
-  },
-  "签上，<br>你的<span>名字</span>。": {
-    "zh-CN": "签上，<br>你的<span>名字</span>。",
-    "zh-TW": "籤上，<br>你的<span>名字</span>。",
-    "en": "Sign it,<br>with your <span>name</span>."
-  },
-  "Sign 乙24H·霁蓝 — SHER12": {
-    "zh-CN": "Sign 乙24H·霁蓝 — SHER12",
-    "zh-TW": "Sign 乙24H·霽藍 — SHER12",
-    "en": "Sign Yi24H · Clear Sky — SHER12"
-  },
-  "灰": {
-    "zh-CN": "灰",
-    "zh-TW": "灰",
-    "en": "Grey"
-  },
-  "Sign 乙24H·苍 — SHER12": {
-    "zh-CN": "Sign 乙24H·苍 — SHER12",
-    "zh-TW": "Sign 乙24H·蒼 — SHER12",
-    "en": "Sign Yi24H · Pale Cyan — SHER12"
-  },
-  "青古绿": {
-    "zh-CN": "青古绿",
-    "zh-TW": "青古綠",
-    "en": "Antique Green"
-  },
-  "Sign·黛绿 — SHER12": {
-    "zh-CN": "Sign·黛绿 — SHER12",
-    "zh-TW": "Sign·黛綠 — SHER12",
-    "en": "Sign · Jade Dark — SHER12"
-  },
-  "Sign·海棠 — SHER12": {
-    "zh-CN": "Sign·海棠 — SHER12",
-    "zh-TW": "Sign·海棠 — SHER12",
-    "en": "Sign · Crabapple — SHER12"
-  },
-  "藤萝紫": {
-    "zh-CN": "藤萝紫",
-    "zh-TW": "藤蘿紫",
-    "en": "Wisteria Purple"
-  },
-  "Sign·藤萝 — SHER12": {
-    "zh-CN": "Sign·藤萝 — SHER12",
-    "zh-TW": "Sign·藤蘿 — SHER12",
-    "en": "Sign · Wisteria — SHER12"
-  },
-  "棕黄": {
-    "zh-CN": "棕黄",
-    "zh-TW": "棕黃",
-    "en": "Tan"
-  },
-  "Sign·茶色 — SHER12": {
-    "zh-CN": "Sign·茶色 — SHER12",
-    "zh-TW": "Sign·茶色 — SHER12",
-    "en": "Sign · Tea — SHER12"
-  },
-  "野性": {
-    "zh-CN": "野性",
-    "zh-TW": "野性",
-    "en": "Wild Side"
-  },
-  "释放，<br>你的<span>野性</span>。": {
-    "zh-CN": "放开，<br>你的<span>野性</span>。",
-    "zh-TW": "放開，<br>你的<span>野性</span>。",
-    "en": "Let loose,<br>your <span>wilder side</span>."
-  },
-  "红 / 蓝": {
-    "zh-CN": "红 / 蓝",
-    "zh-TW": "紅 / 藍",
-    "en": "Red / Blue"
-  },
-  "五片平沿帽 · 甲10": {
-    "zh-CN": "五片平沿帽 · 甲10",
-    "zh-TW": "五片平沿帽 · 甲10",
-    "en": "5-Panel Flat-Brim · Jia10"
-  },
-  "甲10 · 五片平沿帽": {
-    "zh-CN": "甲10 · 五片平沿帽",
-    "zh-TW": "甲10 · 五片平沿帽",
-    "en": "Jia10 · 5-Panel Flat-Brim"
-  },
-  "蛇皮纹 — SHER12": {
-    "zh-CN": "蛇皮纹 — SHER12",
-    "zh-TW": "蛇皮紋 — SHER12",
-    "en": "Snake Skin — SHER12"
-  },
-  "态度": {
-    "zh-CN": "态度",
-    "zh-TW": "態度",
-    "en": "Attitude"
-  },
-  "街舞与帽，<br>同一种<span>态度</span>。": {
-    "zh-CN": "街舞与帽，<br>同一种<span>气质</span>。",
-    "zh-TW": "街舞與帽，<br>同一種<span>氣質</span>。",
-    "en": "Street dance and caps —<br>same <span>energy</span>."
-  },
-  "街舞联名甲24版，平沿更贴街头。": {
-    "zh-CN": "街舞联名甲24版，平沿，街头感。",
-    "zh-TW": "街舞聯名甲24版，平沿，街頭感。",
-    "en": "Street-dance collaboration, Jia24 fit — flat brim, street-ready."
-  },
-  "街舞·甲24": {
-    "zh-CN": "街舞·甲24",
-    "zh-TW": "街舞·甲24",
-    "en": "Street Dance · Jia24"
-  },
-  "街舞·甲24 — SHER12": {
-    "zh-CN": "街舞·甲24 — SHER12",
-    "zh-TW": "街舞·甲24 — SHER12",
-    "en": "Street Dance · Jia24 — SHER12"
-  },
-  "一切": {
-    "zh-CN": "一切",
-    "zh-TW": "一切",
-    "en": "Everything"
-  },
-  "十二即<span>一切</span>。": {
-    "zh-CN": "十二即<span>一切</span>。",
-    "zh-TW": "十二即<span>一切</span>。",
-    "en": "Twelve is <span>everything</span>."
-  },
-  "卡其 / 金绣": {
-    "zh-CN": "卡其 / 金绣",
-    "zh-TW": "卡其 / 金繡",
-    "en": "Khaki / Gold Embroidery"
-  },
-  "拾贰 — SHER12": {
-    "zh-CN": "拾贰 — SHER12",
-    "zh-TW": "拾貳 — SHER12",
-    "en": "Twelve — SHER12"
-  },
-  "头上": {
-    "zh-CN": "头上",
-    "zh-TW": "頭上",
-    "en": "Your Head"
-  },
-  "把「中国」<br>戴在<span>头上</span>。": {
-    "zh-CN": "把「中国」<br>戴在<span>头上</span>。",
-    "zh-TW": "把「中國」<br>戴在<span>頭上</span>。",
-    "en": "Wear \"China\"<br>on your <span>head</span>."
-  },
-  "酒红 / 金绣": {
-    "zh-CN": "酒红 / 金绣",
-    "zh-TW": "酒紅 / 金繡",
-    "en": "Wine / Gold Embroidery"
-  },
-  "「中国」二字，金黄刺绣，酒红底。最直接的文化表达。": {
-    "zh-CN": "「中国」二字，金黄刺绣，酒红底。文化，不言而喻。",
-    "zh-TW": "「中國」二字，金黃刺繡，酒紅底。文化，不言而喻。",
-    "en": "\"China\" in gold embroidery on wine red. Culture, worn simply."
-  },
-  "中国·朱砂 — SHER12": {
-    "zh-CN": "中国·朱砂 — SHER12",
-    "zh-TW": "中國·硃砂 — SHER12",
-    "en": "China · Cinnabar — SHER12"
-  }
+ "中国帽子本土设计 · 做中国人自己的帽饰品牌": {
+  "zh-CN": "中国帽子本土设计",
+  "zh-TW": "中國帽子本土設計",
+  "en": "Caps designed in China"
+ },
+ "← 返回版型体系": {
+  "zh-CN": "← 返回版型体系",
+  "zh-TW": "← 返回版型體系",
+  "en": "← Back to Fit System"
+ },
+ "丁 · 瓜皮帽": {
+  "zh-CN": "丁 · 瓜皮帽",
+  "zh-TW": "丁 · 瓜皮帽",
+  "en": "Ding · Dome Cap"
+ },
+ "丙 · 渔夫帽": {
+  "zh-CN": "丙 · 渔夫帽",
+  "zh-TW": "丙 · 漁夫帽",
+  "en": "Bing · Bucket Hat"
+ },
+ "乙 · 弯沿帽": {
+  "zh-CN": "乙 · 弯沿帽",
+  "zh-TW": "乙 · 彎沿帽",
+  "en": "Yi · Curved-Brim Cap"
+ },
+ "甲 · 平沿帽": {
+  "zh-CN": "甲 · 平沿帽",
+  "zh-TW": "甲 · 平沿帽",
+  "en": "Jia · Flat-Brim Cap"
+ },
+ "我们用一套自己的语言定义帽子。四种帽型，四种扣法，比数字编号更懂中国人。": {
+  "zh-CN": "我们用一套自己的语言定义帽子。四种帽型，四种扣法，不多不少。",
+  "zh-TW": "我們用一套自己的語言定義帽子。四種帽型，四種扣法，不多不少。",
+  "en": "We name our fits our own way. Four silhouettes, four clasps — a system, not a size chart."
+ },
+ "版型体系": {
+  "zh-CN": "版型体系",
+  "zh-TW": "版型體系",
+  "en": "Fit System"
+ },
+ "联系": {
+  "zh-CN": "联系",
+  "zh-TW": "聯繫",
+  "en": "Contact"
+ },
+ "门店": {
+  "zh-CN": "门店",
+  "zh-TW": "門店",
+  "en": "Shop"
+ },
+ "城市": {
+  "zh-CN": "城市",
+  "zh-TW": "城市",
+  "en": "City"
+ },
+ "配件": {
+  "zh-CN": "配件",
+  "zh-TW": "配件",
+  "en": "Accessories"
+ },
+ "产品": {
+  "zh-CN": "产品",
+  "zh-TW": "產品",
+  "en": "Products"
+ },
+ "版型": {
+  "zh-CN": "版型",
+  "zh-TW": "版型",
+  "en": "Fit"
+ },
+ "品牌密码": {
+  "zh-CN": "品牌密码",
+  "zh-TW": "品牌密碼",
+  "en": "Brand Code"
+ },
+ "版型体系 — SHER12": {
+  "zh-CN": "版型体系 — SHER12",
+  "zh-TW": "版型體系 — SHER12",
+  "en": "Fit System — SHER12"
+ },
+ "公众号 CapTure_by_SHER12": {
+  "zh-CN": "公众号 CapTure_by_SHER12",
+  "zh-TW": "公衆號 CapTure_by_SHER12",
+  "en": "WeChat: CapTure_by_SHER12"
+ },
+ "小红书 @Sher12": {
+  "zh-CN": "小红书 @Sher12",
+  "zh-TW": "小紅書 @Sher12",
+  "en": "Xiaohongshu @Sher12"
+ },
+ "微信：sher12cap": {
+  "zh-CN": "微信：sher12cap",
+  "zh-TW": "微信：sher12cap",
+  "en": "WeChat: sher12cap"
+ },
+ "定制、批发、联名合作，或者只是想认识一下——都欢迎。": {
+  "zh-CN": "定制、批发、联名合作，或者只是想认识一下——都欢迎。",
+  "zh-TW": "定製、批發、聯名合作，或者只是想認識一下——都歡迎。",
+  "en": "Bespoke, wholesale, collaborations — or you simply fancy a chat. All welcome."
+ },
+ "聊聊？": {
+  "zh-CN": "聊聊？",
+  "zh-TW": "聊聊？",
+  "en": "Fancy a chat?"
+ },
+ "📍 深圳市南山区华侨城创意文化园南区F1栋101E · 三分地印象": {
+  "zh-CN": "📍 深圳市南山区华侨城创意文化园南区F1栋101E · 三分地印象",
+  "zh-TW": "📍 深圳市南山區華僑城創意文化園南區F1棟101E · 三分地印象",
+  "en": "📍 101E, F1, OCT-LOFT South, Nanshan District, Shenzhen · \"Sandian\""
+ },
+ "想亲手试戴？来深圳华侨城，我们寄售在一家叫「三分地」的店。": {
+  "zh-CN": "想亲手试戴？来深圳华侨城，我们寄售在一家叫「三分地」的店。",
+  "zh-TW": "想親手試戴？來深圳華僑城，我們寄售在一家叫「三分地」的店。",
+  "en": "Want to try them on? We stock at a shop called \"Sandian\" in Shenzhen OCT."
+ },
+ "线下门店": {
+  "zh-CN": "线下门店",
+  "zh-TW": "線下門店",
+  "en": "Shop"
+ },
+ "加入 SHER12 CLUB": {
+  "zh-CN": "加入 SHER12 CLUB",
+  "zh-TW": "加入 SHER12 CLUB",
+  "en": "Join SHER12 CLUB"
+ },
+ "SHER12 不只是一顶帽子。是一群相信「中国设计能上头」的人。加进来，第一时间收到每一次发售。": {
+  "zh-CN": "SHER12 不只是一顶帽子。是一群相信中国设计的人。加入我们，每次发售不会错过。",
+  "zh-TW": "SHER12 不只是一頂帽子。是一羣相信中國設計的人。加入我們，每次發售不會錯過。",
+  "en": "SHER12 is more than a cap. We're a community who believe Chinese design has a place up there. Join us — first access to every release."
+ },
+ "戴帽的人，自成江湖": {
+  "zh-CN": "戴帽的人，自成江湖",
+  "zh-TW": "戴帽的人，自成江湖",
+  "en": "Caps on, we go our own way"
+ },
+ "帽刷": {
+  "zh-CN": "帽刷",
+  "zh-TW": "帽刷",
+  "en": "Cap Brush"
+ },
+ "CAP CLEANING 水基清洁剂": {
+  "zh-CN": "CAP CLEANING 水基清洁剂",
+  "zh-TW": "CAP CLEANING 水基清潔劑",
+  "en": "CAP CLEANING Water-Based Cleaner"
+ },
+ "MAODUN CAP GUARD 帽子防护剂": {
+  "zh-CN": "MAODUN CAP GUARD 帽子防护剂",
+  "zh-TW": "MAODUN CAP GUARD 帽子防護劑",
+  "en": "MAODUN CAP GUARD Cap Protector"
+ },
+ "ANTI-STATIC 除静电": {
+  "zh-CN": "ANTI-STATIC 除静电",
+  "zh-TW": "ANTI-STATIC 除靜電",
+  "en": "ANTI-STATIC De-Static"
+ },
+ "<span class=\"cl\">ANTI-STATIC 除静电</span><span class=\"cl\">MAODUN CAP GUARD 帽子防护剂</span><span class=\"cl\">CAP CLEANING 水基清洁剂</span><span class=\"cl\">帽刷</span>": {
+  "zh-CN": "<span class=\"cl\">ANTI-STATIC 除静电</span><span class=\"cl\">MAODUN CAP GUARD 帽子防护剂</span><span class=\"cl\">CAP CLEANING 水基清洁剂</span><span class=\"cl\">帽刷</span>",
+  "zh-TW": "<span class=\"cl\">ANTI-STATIC 除靜電</span><span class=\"cl\">MAODUN CAP GUARD 帽子防護劑</span><span class=\"cl\">CAP CLEANING 水基清潔劑</span><span class=\"cl\">帽刷</span>",
+  "en": "<span class=\"cl\">ANTI-STATIC De-Static</span><span class=\"cl\">MAODUN CAP GUARD Cap Protector</span><span class=\"cl\">CAP CLEANING Water-Based Cleaner</span><span class=\"cl\">Cap Brush</span>"
+ },
+ "30秒解决帽子皱纹。喷一喷，褶皱自然平复。帽子常备，出行无忧。": {
+  "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。出行常备。",
+  "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。出行常備。",
+  "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally. Keep one handy, wherever you go."
+ },
+ "除皱喷雾": {
+  "zh-CN": "除皱喷雾",
+  "zh-TW": "除皺噴霧",
+  "en": "Wrinkle Spray"
+ },
+ "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子焕新。": {
+  "zh-CN": "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
+  "zh-TW": "免水洗帽子清潔液。200ml 泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
+  "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
+ },
+ "清洁液": {
+  "zh-CN": "清洁液",
+  "zh-TW": "清潔液",
+  "en": "Cap Cleaner"
+ },
+ "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，毛屑灰尘全走。": {
+  "zh-CN": "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，干净利落。",
+  "zh-TW": "棒球帽專用去毛屑刷。可替換海綿刷頭，波浪握持設計。輕輕一刷，乾淨利落。",
+  "en": "A lint brush made for caps. Replaceable sponge head, wave-grip handle. One light sweep — lint and dust gone."
+ },
+ "好帽要养。帽刷 + 清洁液 + 除皱喷雾，让你的帽子一直像新的一样。": {
+  "zh-CN": "好帽需要照顾。帽刷 + 清洁液 + 除皱喷雾，让帽子保持如新。",
+  "zh-TW": "好帽需要照顧。帽刷 + 清潔液 + 除皺噴霧，讓帽子保持如新。",
+  "en": "Good caps deserve care. Brush + cleaner + wrinkle spray — keep every cap fresh."
+ },
+ "配件专区": {
+  "zh-CN": "配件专区",
+  "zh-TW": "配件專區",
+  "en": "Accessories"
+ },
+ "已上线": {
+  "zh-CN": "已上线",
+  "zh-TW": "已上線",
+  "en": "LIVE"
+ },
+ "成都": {
+  "zh-CN": "成都",
+  "zh-TW": "成都",
+  "en": "Chengdu"
+ },
+ "广州": {
+  "zh-CN": "广州",
+  "zh-TW": "廣州",
+  "en": "Guangzhou"
+ },
+ "上海": {
+  "zh-CN": "上海",
+  "zh-TW": "上海",
+  "en": "Shanghai"
+ },
+ "北京": {
+  "zh-CN": "北京",
+  "zh-TW": "北京",
+  "en": "Beijing"
+ },
+ "主场": {
+  "zh-CN": "主场",
+  "zh-TW": "主場",
+  "en": "Home Turf"
+ },
+ "深圳": {
+  "zh-CN": "深圳",
+  "zh-TW": "深圳",
+  "en": "Shenzhen"
+ },
+ "家乡": {
+  "zh-CN": "家乡",
+  "zh-TW": "家鄉",
+  "en": "Hometown"
+ },
+ "香港": {
+  "zh-CN": "香港",
+  "zh-TW": "香港",
+  "en": "Hong Kong, China"
+ },
+ "每一座城市，都有属于自己的颜色与脾气。把城市戴在头上。": {
+  "zh-CN": "每一座城市，都有自己的颜色与性格。戴上就好。",
+  "zh-TW": "每一座城市，都有自己的顏色與性格。戴上就好。",
+  "en": "Every city has its own colour and character. Wear yours."
+ },
+ "城市系列": {
+  "zh-CN": "城市系列",
+  "zh-TW": "城市系列",
+  "en": "City Series"
+ },
+ "戴帽的人，自成江湖。": {
+  "zh-CN": "戴帽的人，自成江湖。",
+  "zh-TW": "戴帽的人，自成江湖。",
+  "en": "Caps on, we go our own way."
+ },
+ "每一顶，都是为你做的": {
+  "zh-CN": "每一顶，都是为你做的",
+  "zh-TW": "每一頂，都是爲你做的",
+  "en": "Every cap, made for you"
+ },
+ "更多 +": {
+  "zh-CN": "更多 +",
+  "zh-TW": "更多 +",
+  "en": "More +"
+ },
+ "30秒解决帽子皱纹。喷一喷，褶皱自然平复。": {
+  "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。",
+  "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。",
+  "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally."
+ },
+ "CAP CLEANING 免水洗帽子清洁液。200ml 泡沫按压。": {
+  "zh-CN": "CAP CLEANING 免水洗帽子清洁液。200ml 泡沫按压。",
+  "zh-TW": "CAP CLEANING 免水洗帽子清潔液。200ml 泡沫按壓。",
+  "en": "CAP CLEANING — water-free cap cleaner. 200ml foam pump."
+ },
+ "CAP BRUSH 棒球帽专用去毛屑刷。KEEP THE HEAD UP。": {
+  "zh-CN": "CAP BRUSH 棒球帽专用去毛屑刷。",
+  "zh-TW": "CAP BRUSH 棒球帽專用去毛屑刷。",
+  "en": "CAP BRUSH — the lint brush for caps. KEEP THE HEAD UP."
+ },
+ "Sign 系列茶色款，复古温暖。": {
+  "zh-CN": "Sign 系列茶色款，复古温暖。",
+  "zh-TW": "Sign 系列茶色款，復古溫暖。",
+  "en": "Sign in Tea — retro and warm."
+ },
+ "Sign·茶色": {
+  "zh-CN": "Sign·茶色",
+  "zh-TW": "Sign·茶色",
+  "en": "Sign · Tea"
+ },
+ "Sign 系列黛绿款，沉静内敛。": {
+  "zh-CN": "Sign 系列黛绿款，沉静内敛。",
+  "zh-TW": "Sign 系列黛綠款，沉靜內斂。",
+  "en": "Sign in Jade Dark — calm and composed."
+ },
+ "Sign·黛绿": {
+  "zh-CN": "Sign·黛绿",
+  "zh-TW": "Sign·黛綠",
+  "en": "Sign · Jade Dark"
+ },
+ "Simple 基础系列，赭石配色。复古温暖，百搭之选。": {
+  "zh-CN": "Simple 基础系列，赭石配色。复古温暖，百搭。",
+  "zh-TW": "Simple 基礎系列，赭石配色。復古溫暖，百搭。",
+  "en": "Simple — Ochre. Retro, warm, goes with everything."
+ },
+ "Simple·赭石": {
+  "zh-CN": "Simple·赭石",
+  "zh-TW": "Simple·赭石",
+  "en": "Simple · Ochre"
+ },
+ "Simple 基础系列，玄色配色。品质本身即是态度。": {
+  "zh-CN": "Simple 基础系列，玄色配色。品质本身，不言而喻。",
+  "zh-TW": "Simple 基礎系列，玄色配色。品質本身，不言而喻。",
+  "en": "Simple — Xuan Black. Quality speaks for itself."
+ },
+ "Simple·玄": {
+  "zh-CN": "Simple·玄",
+  "zh-TW": "Simple·玄",
+  "en": "Simple · Xuan Black"
+ },
+ "一只永远在加载懒惰的狗。不想起床、不想上班、永远在缓冲。": {
+  "zh-CN": "一只在加载的狗。不想起床，不想上班，一直在缓冲。",
+  "zh-TW": "一隻在加載的狗。不想起牀，不想上班，一直在緩衝。",
+  "en": "A dog stuck on loading. Won't get up, won't work, always buffering."
+ },
+ "LZLG 英斗狗": {
+  "zh-CN": "LZLG 英斗狗",
+  "zh-TW": "LZLG 英鬥狗",
+  "en": "LZLG Bulldog"
+ },
+ "独角兽，糖果绿紫，甜美梦幻。潮玩 IP × 帽饰文化。": {
+  "zh-CN": "独角兽，糖果绿紫，甜美梦幻。",
+  "zh-TW": "獨角獸，糖果綠紫，甜美夢幻。",
+  "en": "Unicorn in candy green & purple — sweet, dreamy. Art-toy meets cap culture."
+ },
+ "LZLD 独角兽": {
+  "zh-CN": "LZLD 独角兽",
+  "zh-TW": "LZLD 獨角獸",
+  "en": "LZLD Unicorn"
+ },
+ "蛇皮纹理印花，红蓝撞色，野性十足。": {
+  "zh-CN": "蛇皮纹理印花，红蓝撞色，一抹野性。",
+  "zh-TW": "蛇皮紋理印花，紅藍撞色，一抹野性。",
+  "en": "Snake-skin print, red-blue clash — a bold edge."
+ },
+ "蛇皮纹": {
+  "zh-CN": "蛇皮纹",
+  "zh-TW": "蛇皮紋",
+  "en": "Snake Skin"
+ },
+ "「广东」刺绣，深圳人的广东认同。大湾区的心声。": {
+  "zh-CN": "「广东」刺绣，深圳人的广东认同。根在南方。",
+  "zh-TW": "「廣東」刺繡，深圳人的廣東認同。根在南方。",
+  "en": "\"Guangdong\" embroidery — Shenzhen's roots, rooted in the south."
+ },
+ "广东": {
+  "zh-CN": "广东",
+  "zh-TW": "廣東",
+  "en": "Guangdong"
+ },
+ "双面桃夭月白渔夫帽，清新甜美。两面可穿。": {
+  "zh-CN": "双面桃夭月白渔夫帽，清新甜美。两面可穿。",
+  "zh-TW": "雙面桃夭月白漁夫帽，清新甜美。兩面可穿。",
+  "en": "Reversible bucket in Peach Bloom & Moon White — fresh, sweet, wear either way."
+ },
+ "渔夫帽·桃夭月白": {
+  "zh-CN": "渔夫帽·桃夭月白",
+  "zh-TW": "漁夫帽·桃夭月白",
+  "en": "Bucket Hat · Peach Bloom & Moon White"
+ },
+ "弯沿帽配魔术贴，全玄百搭。可调节，随时到位。": {
+  "zh-CN": "弯沿帽配魔术贴，全玄百搭。可调节。",
+  "zh-TW": "彎沿帽配魔術貼，全玄百搭。可調節。",
+  "en": "Curved-brim with Velcro — all Xuan Black, goes with everything. Adjustable."
+ },
+ "魔术贴·甲12": {
+  "zh-CN": "魔术贴·甲12",
+  "zh-TW": "魔術貼·甲12",
+  "en": "Velcro · Jia12"
+ },
+ "五片帽天青款，SHER 刺绣点睛。可调节。": {
+  "zh-CN": "五片帽天青款，SHER 刺绣。可调节。",
+  "zh-TW": "五片帽天青款，SHER 刺繡。可調節。",
+  "en": "5-panel cap in Sky Azure, finished with SHER embroidery. Adjustable."
+ },
+ "丁·天青": {
+  "zh-CN": "丁·天青",
+  "zh-TW": "丁·天青",
+  "en": "Ding · Sky Azure"
+ },
+ "五片帽玄色款，可调节。版型定生死。": {
+  "zh-CN": "五片帽玄色款，可调节。版型为先。",
+  "zh-TW": "五片帽玄色款，可調節。版型爲先。",
+  "en": "5-panel in Xuan Black. Adjustable. Fit is everything."
+ },
+ "丁·玄": {
+  "zh-CN": "丁·玄",
+  "zh-TW": "丁·玄",
+  "en": "Ding · Xuan Black"
+ },
+ "马赛克像素风 SHER 印花，数字时代的帽饰表达。": {
+  "zh-CN": "马赛克像素风 SHER 印花，数字时代的表达。",
+  "zh-TW": "馬賽克像素風 SHER 印花，數字時代的表達。",
+  "en": "Pixelated SHER print — cap design for the digital age."
+ },
+ "马赛克SHER": {
+  "zh-CN": "马赛克SHER",
+  "zh-TW": "馬賽克SHER",
+  "en": "Mosaic SHER"
+ },
+ "弯沿 Peace 乙0版，封闭帽型，不可调节。和平的另一种形态。": {
+  "zh-CN": "弯沿 Peace 乙0版，封闭帽型，不可调节。和平的另一种形态。",
+  "zh-TW": "彎沿 Peace 乙0版，封閉帽型，不可調節。和平的另一種形態。",
+  "en": "Curved-brim Peace Yi0 — closed, non-adjustable. Peace in another form."
+ },
+ "Peace 乙0": {
+  "zh-CN": "Peace 乙0",
+  "zh-TW": "Peace 乙0",
+  "en": "Peace Yi0"
+ },
+ "Sher 乙0版，封闭帽型。KEEP THE HEAD UP。": {
+  "zh-CN": "Sher 乙0版，封闭帽型。KEEP THE HEAD UP。",
+  "zh-TW": "Sher 乙0版，封閉帽型。KEEP THE HEAD UP。",
+  "en": "Sher Yi0 — a closed silhouette. KEEP THE HEAD UP."
+ },
+ "Sher 乙0": {
+  "zh-CN": "Sher 乙0",
+  "zh-TW": "Sher 乙0",
+  "en": "Sher Yi0"
+ },
+ "「拾贰」刺绣，十二即一切。帽字十二笔，中国十二笔。": {
+  "zh-CN": "「拾贰」刺绣，十二即一切。帽字十二笔，中国十二笔。",
+  "zh-TW": "「拾貳」刺繡，十二即一切。帽字十二筆，中國十二筆。",
+  "en": "\"Twelve\" embroidery — twelve is everything. 'Cap' has 12 strokes, so does 'China'."
+ },
+ "拾贰": {
+  "zh-CN": "拾贰",
+  "zh-TW": "拾貳",
+  "en": "Twelve"
+ },
+ "倒过来的和平。看不见的和平，才是真和平。": {
+  "zh-CN": "倒过来的和平。看不见的和平，才是真和平。",
+  "zh-TW": "倒過來的和平。看不見的和平，才是真和平。",
+  "en": "Peace, turned upside down. The peace you can't see — that's real peace."
+ },
+ "Sign 乙24H版，苍色低调。金属扣品质之选。": {
+  "zh-CN": "Sign 乙24H版，苍色低调。金属扣款。",
+  "zh-TW": "Sign 乙24H版，蒼色低調。金屬扣款。",
+  "en": "Sign Yi24H in Pale Cyan — understated. Metal buckle finish."
+ },
+ "Sign 乙24H·苍": {
+  "zh-CN": "Sign 乙24H·苍",
+  "zh-TW": "Sign 乙24H·蒼",
+  "en": "Sign Yi24H · Pale Cyan"
+ },
+ "Sher 系列月白天青配色，清爽街头风。月白帽身搭配天青帽檐，手写体 Sher logo。": {
+  "zh-CN": "Sher 系列月白天青配色，清爽街头风。月白帽身搭配天青帽檐，手写体 Sher logo。",
+  "zh-TW": "Sher 系列月白天青配色，清爽街頭風。月白帽身搭配天青帽檐，手寫體 Sher logo。",
+  "en": "Sher in Moon White & Sky Azure — clean street style. Moon-white crown, sky-azure brim, hand-written Sher logo."
+ },
+ "Sher·月白天青": {
+  "zh-CN": "Sher·月白天青",
+  "zh-TW": "Sher·月白天青",
+  "en": "Sher · Moon White & Sky Azure"
+ },
+ "魔术贴可调节渔夫帽，玄色配色。功能与风格兼具。": {
+  "zh-CN": "魔术贴可调节渔夫帽，玄色配色。功能与风格，都在。",
+  "zh-TW": "魔術貼可調節漁夫帽，玄色配色。功能與風格，都在。",
+  "en": "Velcro-adjustable bucket in Xuan Black — function meets style."
+ },
+ "魔术贴渔夫帽": {
+  "zh-CN": "魔术贴渔夫帽",
+  "zh-TW": "魔術貼漁夫帽",
+  "en": "Velcro Bucket Hat"
+ },
+ "Sign 乙24H版，霁蓝清爽。金属扣品质之选。": {
+  "zh-CN": "Sign 乙24H版，霁蓝清爽。金属扣款。",
+  "zh-TW": "Sign 乙24H版，霽藍清爽。金屬扣款。",
+  "en": "Sign Yi24H in Clear Sky — crisp. Metal buckle finish."
+ },
+ "Sign 乙24H·霁蓝": {
+  "zh-CN": "Sign 乙24H·霁蓝",
+  "zh-TW": "Sign 乙24H·霽藍",
+  "en": "Sign Yi24H · Clear Sky"
+ },
+ "绿色帽身+白色大字「發」覆盖全帽，帽檐下印「生财有道」。这顶帽子藏了一句脏话，但只有你自己知道。": {
+  "zh-CN": "绿色帽身+白色大字「發」覆盖全帽，帽檐下印「生财有道」。这顶帽子藏了一句脏话，但只有你自己知道。",
+  "zh-TW": "綠色帽身+白色大字「發」覆蓋全帽，帽檐下印「生財有道」。這頂帽子藏了一句髒話，但只有你自己知道。",
+  "en": "Green crown, white \"Fortune\" across the cap. Hidden under the brim: a secret only you know."
+ },
+ "發财": {
+  "zh-CN": "發财",
+  "zh-TW": "發財",
+  "en": "Fortune"
+ },
+ "向上，永远向上。8848.86m，一座山的高度，一种态度的高度。": {
+  "zh-CN": "只管向上。8848.86m，一座山的高度，一种心境的高度。",
+  "zh-TW": "只管向上。8848.86m，一座山的高度，一種心境的高度。",
+  "en": "Up, just up. 8,848.86m — the height of a mountain, the height of a mindset."
+ },
+ "珠峰": {
+  "zh-CN": "珠峰",
+  "zh-TW": "珠峯",
+  "en": "Everest"
+ },
+ "双面玄月白印花渔夫帽，SHER logo 醒目印花。": {
+  "zh-CN": "双面玄月白印花渔夫帽，SHER 印花。",
+  "zh-TW": "雙面玄月白印花漁夫帽，SHER 印花。",
+  "en": "Reversible bucket in Xuan Black & Moon White with a SHER print."
+ },
+ "渔夫帽·玄月白": {
+  "zh-CN": "渔夫帽·玄月白",
+  "zh-TW": "漁夫帽·玄月白",
+  "en": "Bucket Hat · Xuan Black & Moon White"
+ },
+ "Sign 系列海棠款，打破常规。": {
+  "zh-CN": "Sign 系列海棠款，不落俗套。",
+  "zh-TW": "Sign 系列海棠款，不落俗套。",
+  "en": "Sign in Crabapple — off the grid."
+ },
+ "Sign·海棠": {
+  "zh-CN": "Sign·海棠",
+  "zh-TW": "Sign·海棠",
+  "en": "Sign · Crabapple"
+ },
+ "Sign 系列藤萝款，浪漫神秘。": {
+  "zh-CN": "Sign 系列藤萝款，浪漫神秘。",
+  "zh-TW": "Sign 系列藤蘿款，浪漫神祕。",
+  "en": "Sign in Wisteria — romantic and mysterious."
+ },
+ "Sign·藤萝": {
+  "zh-CN": "Sign·藤萝",
+  "zh-TW": "Sign·藤蘿",
+  "en": "Sign · Wisteria"
+ },
+ "双面天青赭石渔夫帽，一面天青一面赭石，两种心情。": {
+  "zh-CN": "双面天青赭石渔夫帽，一面天青一面赭石，两种心情。",
+  "zh-TW": "雙面天青赭石漁夫帽，一面天青一面赭石，兩種心情。",
+  "en": "Reversible bucket — Sky Azure one side, Ochre the other. Two moods, one cap."
+ },
+ "渔夫帽·天青赭石": {
+  "zh-CN": "渔夫帽·天青赭石",
+  "zh-TW": "漁夫帽·天青赭石",
+  "en": "Bucket Hat · Sky Azure & Ochre"
+ },
+ "基础系列": {
+  "zh-CN": "基础系列",
+  "zh-TW": "基礎系列",
+  "en": "Simple Series"
+ },
+ "地理系列": {
+  "zh-CN": "地理系列",
+  "zh-TW": "地理系列",
+  "en": "Geo Series"
+ },
+ "图案系列": {
+  "zh-CN": "图案系列",
+  "zh-TW": "圖案系列",
+  "en": "Graphic Series"
+ },
+ "联名系列": {
+  "zh-CN": "联名系列",
+  "zh-TW": "聯名系列",
+  "en": "Collab Series"
+ },
+ "文化系列": {
+  "zh-CN": "文化系列",
+  "zh-TW": "文化系列",
+  "en": "Culture Series"
+ },
+ "全部": {
+  "zh-CN": "全部",
+  "zh-TW": "全部",
+  "en": "All"
+ },
+ "42款帽子。从文化到联名，从平沿帽到弯沿帽——总有一顶属于你。": {
+  "zh-CN": "42款帽子。从文化到联名，从平沿帽到弯沿帽——总有一顶属于你。",
+  "zh-TW": "42款帽子。從文化到聯名，從平沿帽到彎沿帽——總有一頂屬於你。",
+  "en": "42 caps. From culture to collaborations, flat-brim to curved — one of them is yours."
+ },
+ "我们的帽子": {
+  "zh-CN": "我们的帽子",
+  "zh-TW": "我們的帽子",
+  "en": "Our Caps"
+ },
+ "查看系列 →": {
+  "zh-CN": "查看系列 →",
+  "zh-TW": "查看系列 →",
+  "en": "View Series"
+ },
+ "不服": {
+  "zh-CN": "不服",
+  "zh-TW": "不服",
+  "en": "Defy"
+ },
+ "朱砂": {
+  "zh-CN": "朱砂",
+  "zh-TW": "硃砂",
+  "en": "Cinnabar"
+ },
+ "「中国」二字，金黄刺绣，酒红底；不服两个字，一种态度。把中国文化，戴在头上。": {
+  "zh-CN": "「中国」二字，金黄刺绣，酒红底；不服两个字。中国文化，戴上就好。",
+  "zh-TW": "「中國」二字，金黃刺繡，酒紅底；不服兩個字。中國文化，戴上就好。",
+  "en": "\"China\" in gold on wine red. Defy — one word. Culture, worn quietly."
+ },
+ "缥": {
+  "zh-CN": "缥",
+  "zh-TW": "縹",
+  "en": "Pale Azure"
+ },
+ "墨": {
+  "zh-CN": "墨",
+  "zh-TW": "墨",
+  "en": "Ink"
+ },
+ "倒过来的和平。看不见的和平，才是真和平。墨与缥，两种安静的姿态。": {
+  "zh-CN": "倒过来的和平。看不见的和平，才是真和平。墨与缥，两种安静的姿态。",
+  "zh-TW": "倒過來的和平。看不見的和平，才是真和平。墨與縹，兩種安靜的姿態。",
+  "en": "Peace, turned upside down. The peace you can't see is the real peace. Ink and Pale Azure — two quiet gestures."
+ },
+ "竹青": {
+  "zh-CN": "竹青",
+  "zh-TW": "竹青",
+  "en": "Bamboo Green"
+ },
+ "栗色": {
+  "zh-CN": "栗色",
+  "zh-TW": "慄色",
+  "en": "Chestnut"
+ },
+ "桃夭": {
+  "zh-CN": "桃夭",
+  "zh-TW": "桃夭",
+  "en": "Peach Bloom"
+ },
+ "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就是表态。三色可选：桃夭、栗色、竹青。": {
+  "zh-CN": "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就好。三色可选：桃夭、栗色、竹青。",
+  "zh-TW": "心形 SHER 刺繡，粉色帽檐。Love 系列——愛不需要翻譯，戴上就好。三色可選：桃夭、慄色、竹青。",
+  "en": "Heart SHER embroidery, pink brim. The Love series — love needs no translation; just wear it. Three colors: Peach Bloom, Chestnut, Bamboo Green."
+ },
+ "扣型编码：12 塑胶背扣 · 24 金属日字扣 · 0 封闭不可调 · 10 金属塑扣": {
+  "zh-CN": "扣型编码：12 塑胶背扣 · 24 金属日字扣 · 0 封闭不可调 · 10 金属塑扣",
+  "zh-TW": "扣型編碼：12 塑膠背扣 · 24 金屬日字扣 · 0 封閉不可調 · 10 金屬塑扣",
+  "en": "Closure Code: 12 plastic snap · 24 metal buckle · 0 fitted (fixed) · 10 metal snap"
+ },
+ "查看全部丁型 →": {
+  "zh-CN": "查看全部丁型 →",
+  "zh-TW": "查看全部丁型 →",
+  "en": "View All Type Ding"
+ },
+ "10 金属塑扣": {
+  "zh-CN": "10 金属塑扣",
+  "zh-TW": "10 金屬塑扣",
+  "en": "10 Metal Snap"
+ },
+ "<span>10 金属塑扣</span>": {
+  "zh-CN": "<span>10 金属塑扣</span>",
+  "zh-TW": "<span>10 金屬塑扣</span>",
+  "en": "<span>10 Metal Snap</span>"
+ },
+ "瓜皮帽": {
+  "zh-CN": "瓜皮帽",
+  "zh-TW": "瓜皮帽",
+  "en": "Dome Cap"
+ },
+ "丁": {
+  "zh-CN": "丁",
+  "zh-TW": "丁",
+  "en": "Ding"
+ },
+ "查看全部丙型 →": {
+  "zh-CN": "查看全部丙型 →",
+  "zh-TW": "查看全部丙型 →",
+  "en": "View All Type Bing"
+ },
+ "0 封闭不可调": {
+  "zh-CN": "0 封闭不可调",
+  "zh-TW": "0 封閉不可調",
+  "en": "0 Closed, Non-Adjustable"
+ },
+ "<span>10 金属塑扣</span><span>0 封闭不可调</span>": {
+  "zh-CN": "<span>10 金属塑扣</span><span>0 封闭不可调</span>",
+  "zh-TW": "<span>10 金屬塑扣</span><span>0 封閉不可調</span>",
+  "en": "<span>10 Metal Snap</span><span>0 Fitted</span>"
+ },
+ "渔夫帽": {
+  "zh-CN": "渔夫帽",
+  "zh-TW": "漁夫帽",
+  "en": "Bucket Hat"
+ },
+ "丙": {
+  "zh-CN": "丙",
+  "zh-TW": "丙",
+  "en": "Bing"
+ },
+ "查看全部乙型 →": {
+  "zh-CN": "查看全部乙型 →",
+  "zh-TW": "查看全部乙型 →",
+  "en": "View All Type Yi"
+ },
+ "24 金属日字扣": {
+  "zh-CN": "24 金属日字扣",
+  "zh-TW": "24 金屬日字扣",
+  "en": "24 Metal Buckle"
+ },
+ "<span>24 金属日字扣</span><span>0 封闭不可调</span>": {
+  "zh-CN": "<span>24 金属日字扣</span><span>0 封闭不可调</span>",
+  "zh-TW": "<span>24 金屬日字扣</span><span>0 封閉不可調</span>",
+  "en": "<span>24 Metal Buckle</span><span>0 Fitted</span>"
+ },
+ "弯沿帽": {
+  "zh-CN": "弯沿帽",
+  "zh-TW": "彎沿帽",
+  "en": "Curved-Brim Cap"
+ },
+ "乙": {
+  "zh-CN": "乙",
+  "zh-TW": "乙",
+  "en": "Yi"
+ },
+ "查看全部甲型 →": {
+  "zh-CN": "查看全部甲型 →",
+  "zh-TW": "查看全部甲型 →",
+  "en": "View All Type Jia"
+ },
+ "12 塑胶背扣": {
+  "zh-CN": "12 塑胶背扣",
+  "zh-TW": "12 塑膠背扣",
+  "en": "12 Plastic Snap"
+ },
+ "<span>24 金属日字扣</span><span>12 塑胶背扣</span>": {
+  "zh-CN": "<span>24 金属日字扣</span><span>12 塑胶背扣</span>",
+  "zh-TW": "<span>24 金屬日字扣</span><span>12 塑膠背扣</span>",
+  "en": "<span>24 Metal Buckle</span><span>12 Plastic Snap</span>"
+ },
+ "平沿帽": {
+  "zh-CN": "平沿帽",
+  "zh-TW": "平沿帽",
+  "en": "Flat-Brim Cap"
+ },
+ "甲": {
+  "zh-CN": "甲",
+  "zh-TW": "甲",
+  "en": "Jia"
+ },
+ "甲乙丙丁 · 版型体系": {
+  "zh-CN": "甲乙丙丁 · 版型体系",
+  "zh-TW": "甲乙丙丁 · 版型體系",
+  "en": "Jia Yi Bing Ding · The Fit System"
+ },
+ "来了就是深圳人。": {
+  "zh-CN": "来了就是深圳人。",
+  "zh-TW": "來了就是深圳人。",
+  "en": "Arrive, and you belong."
+ },
+ "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>来了就是深圳人。</b>": {
+  "zh-CN": "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>来了就是深圳人。</b>",
+  "zh-TW": "Sher = Shen（深圳）+ er（人）&nbsp;&nbsp;·&nbsp;&nbsp;<b>來了就是深圳人。</b>",
+  "en": "Sher = Shen (Shenzhen) + er (one who belongs) &nbsp;&nbsp;·&nbsp;&nbsp;<b>Arrive, and you belong.</b>"
+ },
+ "十二": {
+  "zh-CN": "十二",
+  "zh-TW": "十二",
+  "en": "Twelve"
+ },
+ "「帽」字<b>十二</b>笔，「中国」也是<b>十二</b>笔。<br>\n      一天<b>十二</b>个时辰，一年<b>十二</b>个月。<br>\n      不是随便挑的数字——是刻在中国文化里的密码。": {
+  "zh-CN": "「帽」字<b>十二</b>笔，「中国」也是<b>十二</b>笔。<br>\n      一天<b>十二</b>个时辰，一年<b>十二</b>个月。<br>\n      不是随便挑的数字——是刻在中国文化里的密码。",
+  "zh-TW": "「帽」字<b>十二</b>筆，「中國」也是<b>十二</b>筆。<br>\n      一天<b>十二</b>個時辰，一年<b>十二</b>個月。<br>\n      不是隨便挑的數字——是刻在中國文化裏的密碼。",
+  "en": "The word for 'cap' has <b>12</b> strokes in Chinese. So does 'China'.<br>\n      <b>12</b> hours in a day cycle, <b>12</b> months in a year.<br>\n      Not a random number — a code woven into the culture."
+ },
+ "为什么是<span class=\"hl\">十二</span>？": {
+  "zh-CN": "为什么是<span class=\"hl\">十二</span>？",
+  "zh-TW": "爲什麼是<span class=\"hl\">十二</span>？",
+  "en": "Why <span class=\"hl\">twelve</span>?"
+ },
+ "了解这个品牌 →": {
+  "zh-CN": "了解这个品牌 →",
+  "zh-TW": "了解這個品牌 →",
+  "en": "About the Brand"
+ },
+ "把中国文化的图腾，一针一线绣在帽子上。": {
+  "zh-CN": "把中国文化的纹样，绣在帽子上。",
+  "zh-TW": "把中國文化的紋樣，繡在帽子上。",
+  "en": "Stitching Chinese motifs onto every cap, thread by thread."
+ },
+ "中国人自己的帽饰品牌": {
+  "zh-CN": "中国人自己的帽饰品牌",
+  "zh-TW": "中國人自己的帽飾品牌",
+  "en": "A cap brand born in China"
+ },
+ "CapTure · 棒球帽文化志": {
+  "zh-CN": "CapTure · 棒球帽文化志",
+  "zh-TW": "CapTure · 棒球帽文化志",
+  "en": "CapTure · A Cap Culture Journal"
+ },
+ "心情": {
+  "zh-CN": "心情",
+  "zh-TW": "心情",
+  "en": "Mood"
+ },
+ "两个面，<br>两种<span>心情</span>。": {
+  "zh-CN": "两个面，<br>两种<span>心情</span>。",
+  "zh-TW": "兩個面，<br>兩種<span>心情</span>。",
+  "en": "Two sides,<br>two <span>moods</span>."
+ },
+ "SHER 织带": {
+  "zh-CN": "SHER 织带",
+  "zh-TW": "SHER 織帶",
+  "en": "SHER Webbing"
+ },
+ "内衬": {
+  "zh-CN": "内衬",
+  "zh-TW": "內襯",
+  "en": "Lining"
+ },
+ "黑 / 白印花": {
+  "zh-CN": "黑 / 白印花",
+  "zh-TW": "黑 / 白印花",
+  "en": "Black / White Print"
+ },
+ "颜色": {
+  "zh-CN": "颜色",
+  "zh-TW": "顏色",
+  "en": "Colour"
+ },
+ "渔夫帽 · 双面": {
+  "zh-CN": "渔夫帽 · 双面",
+  "zh-TW": "漁夫帽 · 雙面",
+  "en": "Bucket Hat · Reversible"
+ },
+ "帽型": {
+  "zh-CN": "帽型",
+  "zh-TW": "帽型",
+  "en": "Silhouette"
+ },
+ "双面 · 渔夫帽": {
+  "zh-CN": "双面 · 渔夫帽",
+  "zh-TW": "雙面 · 漁夫帽",
+  "en": "Reversible · Bucket Hat"
+ },
+ "线下试戴 · 深圳市南山区华侨城创意文化园南区F1栋101E 三分地印象": {
+  "zh-CN": "线下试戴 · 深圳市南山区华侨城创意文化园南区F1栋101E 三分地印象",
+  "zh-TW": "線下試戴 · 深圳市南山區華僑城創意文化園南區F1棟101E 三分地印象",
+  "en": "Try On In-Shop · 101E, F1, OCT-LOFT South, Nanshan, Shenzhen — \"Sandian\""
+ },
+ "更多款式": {
+  "zh-CN": "更多款式",
+  "zh-TW": "更多款式",
+  "en": "More Styles"
+ },
+ "立即了解": {
+  "zh-CN": "立即了解",
+  "zh-TW": "立即了解",
+  "en": "Learn More"
+ },
+ "← 返回产品": {
+  "zh-CN": "← 返回产品",
+  "zh-TW": "← 返回產品",
+  "en": "← Back to Products"
+ },
+ "渔夫帽·玄月白 — SHER12": {
+  "zh-CN": "渔夫帽·玄月白 — SHER12",
+  "zh-TW": "漁夫帽·玄月白 — SHER12",
+  "en": "Bucket Hat · Xuan Black & Moon White — SHER12"
+ },
+ "天青 / 赭石": {
+  "zh-CN": "天青 / 赭石",
+  "zh-TW": "天青 / 赭石",
+  "en": "Sky Azure / Ochre"
+ },
+ "渔夫帽·天青赭石 — SHER12": {
+  "zh-CN": "渔夫帽·天青赭石 — SHER12",
+  "zh-TW": "漁夫帽·天青赭石 — SHER12",
+  "en": "Bucket Hat · Sky Azure & Ochre — SHER12"
+ },
+ "粉 / 白": {
+  "zh-CN": "粉 / 白",
+  "zh-TW": "粉 / 白",
+  "en": "Pink / White"
+ },
+ "渔夫帽·桃夭月白 — SHER12": {
+  "zh-CN": "渔夫帽·桃夭月白 — SHER12",
+  "zh-TW": "漁夫帽·桃夭月白 — SHER12",
+  "en": "Bucket Hat · Peach Bloom & Moon White — SHER12"
+ },
+ "你自己": {
+  "zh-CN": "你自己",
+  "zh-TW": "你自己",
+  "en": "Yourself"
+ },
+ "爱惜你的帽子，<br>就是爱惜<span>你自己</span>。": {
+  "zh-CN": "爱惜你的帽子，<br>就是爱惜<span>你自己</span>。",
+  "zh-TW": "愛惜你的帽子，<br>就是愛惜<span>你自己</span>。",
+  "en": "Take care of your cap,<br>and you take care of <span>yourself</span>."
+ },
+ "所有帽型": {
+  "zh-CN": "所有帽型",
+  "zh-TW": "所有帽型",
+  "en": "All Silhouettes"
+ },
+ "适用": {
+  "zh-CN": "适用",
+  "zh-TW": "適用",
+  "en": "For"
+ },
+ "波浪握持": {
+  "zh-CN": "波浪握持",
+  "zh-TW": "波浪握持",
+  "en": "Wave-Grip Handle"
+ },
+ "设计": {
+  "zh-CN": "设计",
+  "zh-TW": "設計",
+  "en": "Design"
+ },
+ "可替换海绵刷头": {
+  "zh-CN": "可替换海绵刷头",
+  "zh-TW": "可替換海綿刷頭",
+  "en": "Replaceable Sponge Head"
+ },
+ "刷头": {
+  "zh-CN": "刷头",
+  "zh-TW": "刷頭",
+  "en": "Brush Head"
+ },
+ "去毛屑 / 除尘": {
+  "zh-CN": "去毛屑 / 除尘",
+  "zh-TW": "去毛屑 / 除塵",
+  "en": "Lint Removal / Dusting"
+ },
+ "功能": {
+  "zh-CN": "功能",
+  "zh-TW": "功能",
+  "en": "Function"
+ },
+ "CAP BRUSH 帽刷": {
+  "zh-CN": "CAP BRUSH 帽刷",
+  "zh-TW": "CAP BRUSH 帽刷",
+  "en": "CAP BRUSH Cap Brush"
+ },
+ "品名": {
+  "zh-CN": "品名",
+  "zh-TW": "品名",
+  "en": "Product Name"
+ },
+ "线下购买 · 华侨城三分地": {
+  "zh-CN": "线下购买 · 华侨城三分地",
+  "zh-TW": "線下購買 · 華僑城三分地",
+  "en": "Buy In-Shop · OCT \"Sandian\""
+ },
+ "更多配件": {
+  "zh-CN": "更多配件",
+  "zh-TW": "更多配件",
+  "en": "More Accessories"
+ },
+ "← 返回配件": {
+  "zh-CN": "← 返回配件",
+  "zh-TW": "← 返回配件",
+  "en": "← Back to Accessories"
+ },
+ "帽刷 — SHER12": {
+  "zh-CN": "帽刷 — SHER12",
+  "zh-TW": "帽刷 — SHER12",
+  "en": "Cap Brush — SHER12"
+ },
+ "中国·朱砂": {
+  "zh-CN": "中国·朱砂",
+  "zh-TW": "中國·硃砂",
+  "en": "China · Cinnabar"
+ },
+ "本能": {
+  "zh-CN": "本能",
+  "zh-TW": "本能",
+  "en": "Instinct"
+ },
+ "不服，<br>是一种<span>本能</span>。": {
+  "zh-CN": "不服，<br>是一种<span>本能</span>。",
+  "zh-TW": "不服，<br>是一種<span>本能</span>。",
+  "en": "Defy,<br>is an <span>instinct</span>."
+ },
+ "玄 / 白绣": {
+  "zh-CN": "玄 / 白绣",
+  "zh-TW": "玄 / 白繡",
+  "en": "Xuan Black / White Embroidery"
+ },
+ "平沿帽 · 甲24": {
+  "zh-CN": "平沿帽 · 甲24",
+  "zh-TW": "平沿帽 · 甲24",
+  "en": "Flat-Brim Cap · Jia24"
+ },
+ "甲24 · 平沿帽": {
+  "zh-CN": "甲24 · 平沿帽",
+  "zh-TW": "甲24 · 平沿帽",
+  "en": "Jia24 · Flat-Brim Cap"
+ },
+ "两个字，一种态度。戴上就是表态。": {
+  "zh-CN": "两个字，不多说。戴上就好。",
+  "zh-TW": "兩個字，不多說。戴上就好。",
+  "en": "One word. Put it on."
+ },
+ "不服 — SHER12": {
+  "zh-CN": "不服 — SHER12",
+  "zh-TW": "不服 — SHER12",
+  "en": "Defy — SHER12"
+ },
+ "力量": {
+  "zh-CN": "力量",
+  "zh-TW": "力量",
+  "en": "Power"
+ },
+ "少即是多，<br>简单即是<span>力量</span>。": {
+  "zh-CN": "少即是多，<br>简单即是<span>力量</span>。",
+  "zh-TW": "少即是多，<br>簡單即是<span>力量</span>。",
+  "en": "Less is more —<br>simplicity is <span>power</span>."
+ },
+ "玄": {
+  "zh-CN": "玄",
+  "zh-TW": "玄",
+  "en": "Xuan Black"
+ },
+ "弯沿帽 · 乙24H": {
+  "zh-CN": "弯沿帽 · 乙24H",
+  "zh-TW": "彎沿帽 · 乙24H",
+  "en": "Curved-Brim Cap · Yi24H"
+ },
+ "乙24H · 弯沿帽": {
+  "zh-CN": "乙24H · 弯沿帽",
+  "zh-TW": "乙24H · 彎沿帽",
+  "en": "Yi24H · Curved-Brim Cap"
+ },
+ "Simple·玄 — SHER12": {
+  "zh-CN": "Simple·玄 — SHER12",
+  "zh-TW": "Simple·玄 — SHER12",
+  "en": "Simple · Xuan Black — SHER12"
+ },
+ "赭石": {
+  "zh-CN": "赭石",
+  "zh-TW": "赭石",
+  "en": "Ochre"
+ },
+ "Simple·赭石 — SHER12": {
+  "zh-CN": "Simple·赭石 — SHER12",
+  "zh-TW": "Simple·赭石 — SHER12",
+  "en": "Simple · Ochre — SHER12"
+ },
+ "精神": {
+  "zh-CN": "精神",
+  "zh-TW": "精神",
+  "en": "Spirit"
+ },
+ "帽子干净了，<br>整个人都<span>精神</span>了。": {
+  "zh-CN": "帽子干净了，<br>整个人都<span>精神</span>了。",
+  "zh-TW": "帽子乾淨了，<br>整個人都<span>精神</span>了。",
+  "en": "A clean cap,<br>a <span>sharper</span> you."
+ },
+ "水基温和去污": {
+  "zh-CN": "水基温和去污",
+  "zh-TW": "水基溫和去污",
+  "en": "Water-based, gentle cleaning"
+ },
+ "配方": {
+  "zh-CN": "配方",
+  "zh-TW": "配方",
+  "en": "Formula"
+ },
+ "免水洗 / 泡沫按压": {
+  "zh-CN": "免水洗 / 泡沫按压",
+  "zh-TW": "免水洗 / 泡沫按壓",
+  "en": "Water-Free / Foam Pump"
+ },
+ "类型": {
+  "zh-CN": "类型",
+  "zh-TW": "類型",
+  "en": "Type"
+ },
+ "容量": {
+  "zh-CN": "容量",
+  "zh-TW": "容量",
+  "en": "Volume"
+ },
+ "CAP CLEANING 清洁液": {
+  "zh-CN": "CAP CLEANING 清洁液",
+  "zh-TW": "CAP CLEANING 清潔液",
+  "en": "CAP CLEANING Cap Cleaner"
+ },
+ "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子焕新。": {
+  "zh-CN": "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
+  "zh-TW": "免水洗帽子清潔液。200ml泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
+  "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
+ },
+ "清洁液 — SHER12": {
+  "zh-CN": "清洁液 — SHER12",
+  "zh-TW": "清潔液 — SHER12",
+  "en": "Cap Cleaner — SHER12"
+ },
+ "生死": {
+  "zh-CN": "生死",
+  "zh-TW": "生死",
+  "en": "Everything"
+ },
+ "版型，<br>定<span>生死</span>。": {
+  "zh-CN": "版型，<br>定<span>生死</span>。",
+  "zh-TW": "版型，<br>定<span>生死</span>。",
+  "en": "The fit,<br>decides <span>everything</span>."
+ },
+ "瓜皮帽 · 丁10": {
+  "zh-CN": "瓜皮帽 · 丁10",
+  "zh-TW": "瓜皮帽 · 丁10",
+  "en": "Dome Cap · Ding10"
+ },
+ "丁10 · 瓜皮帽": {
+  "zh-CN": "丁10 · 瓜皮帽",
+  "zh-TW": "丁10 · 瓜皮帽",
+  "en": "Ding10 · Dome Cap"
+ },
+ "丁·玄 — SHER12": {
+  "zh-CN": "丁·玄 — SHER12",
+  "zh-TW": "丁·玄 — SHER12",
+  "en": "Ding · Xuan Black — SHER12"
+ },
+ "天青": {
+  "zh-CN": "天青",
+  "zh-TW": "天青",
+  "en": "Sky Azure"
+ },
+ "丁·天青 — SHER12": {
+  "zh-CN": "丁·天青 — SHER12",
+  "zh-TW": "丁·天青 — SHER12",
+  "en": "Ding · Sky Azure — SHER12"
+ },
+ "向上": {
+  "zh-CN": "向上",
+  "zh-TW": "向上",
+  "en": "Up"
+ },
+ "向上，<br>永远<span>向上</span>。": {
+  "zh-CN": "向上，<br>永远<span>向上</span>。",
+  "zh-TW": "向上，<br>永遠<span>向上</span>。",
+  "en": "Up,<br>always <span>up</span>."
+ },
+ "白 / 灰蓝": {
+  "zh-CN": "白 / 灰蓝",
+  "zh-TW": "白 / 灰藍",
+  "en": "White / Grey Blue"
+ },
+ "弯沿帽 · 乙12": {
+  "zh-CN": "弯沿帽 · 乙12",
+  "zh-TW": "彎沿帽 · 乙12",
+  "en": "Curved-Brim Cap · Yi12"
+ },
+ "乙12 · 弯沿帽": {
+  "zh-CN": "乙12 · 弯沿帽",
+  "zh-TW": "乙12 · 彎沿帽",
+  "en": "Yi12 · Curved-Brim Cap"
+ },
+ "珠峰 — SHER12": {
+  "zh-CN": "珠峰 — SHER12",
+  "zh-TW": "珠峯 — SHER12",
+  "en": "Everest — SHER12"
+ },
+ "心声": {
+  "zh-CN": "心声",
+  "zh-TW": "心聲",
+  "en": "Voice"
+ },
+ "港澳人的心声，<br>也是中国人的<span>心声</span>。": {
+  "zh-CN": "港澳人的声音，<br>也是中国人的<span>声音</span>。",
+  "zh-TW": "港澳人的聲音，<br>也是中國人的<span>聲音</span>。",
+  "en": "The voice of Hong Kong and Macao,<br>is the <span>voice</span> of China, too."
+ },
+ "金 / 满印": {
+  "zh-CN": "金 / 满印",
+  "zh-TW": "金 / 滿印",
+  "en": "Gold / Full Print"
+ },
+ "弯沿帽 · 乙24": {
+  "zh-CN": "弯沿帽 · 乙24",
+  "zh-TW": "彎沿帽 · 乙24",
+  "en": "Curved-Brim Cap · Yi24"
+ },
+ "乙24 · 弯沿帽": {
+  "zh-CN": "乙24 · 弯沿帽",
+  "zh-TW": "乙24 · 彎沿帽",
+  "en": "Yi24 · Curved-Brim Cap"
+ },
+ "發财 — SHER12": {
+  "zh-CN": "發财 — SHER12",
+  "zh-TW": "發財 — SHER12",
+  "en": "Fortune — SHER12"
+ },
+ "浪漫": {
+  "zh-CN": "浪漫",
+  "zh-TW": "浪漫",
+  "en": "Romance"
+ },
+ "像素，<br>是数字时代的<span>浪漫</span>。": {
+  "zh-CN": "像素，<br>是数字时代的<span>浪漫</span>。",
+  "zh-TW": "像素，<br>是數字時代的<span>浪漫</span>。",
+  "en": "Pixels,<br>the <span>romance</span> of the digital age."
+ },
+ "浅卡其": {
+  "zh-CN": "浅卡其",
+  "zh-TW": "淺卡其",
+  "en": "Light Khaki"
+ },
+ "马赛克SHER — SHER12": {
+  "zh-CN": "马赛克SHER — SHER12",
+  "zh-TW": "馬賽克SHER — SHER12",
+  "en": "Mosaic SHER — SHER12"
+ },
+ "归属": {
+  "zh-CN": "归属",
+  "zh-TW": "歸屬",
+  "en": "Belonging"
+ },
+ "广东，<br>是一种<span>归属</span>。": {
+  "zh-CN": "广东，<br>是一种<span>归属</span>。",
+  "zh-TW": "廣東，<br>是一種<span>歸屬</span>。",
+  "en": "Guangdong,<br>is <span>belonging</span>."
+ },
+ "黑 / 白绣": {
+  "zh-CN": "黑 / 白绣",
+  "zh-TW": "黑 / 白繡",
+  "en": "Black / White Embroidery"
+ },
+ "广东 — SHER12": {
+  "zh-CN": "广东 — SHER12",
+  "zh-TW": "廣東 — SHER12",
+  "en": "Guangdong — SHER12"
+ },
+ "Peace·缥": {
+  "zh-CN": "Peace·缥",
+  "zh-TW": "Peace·縹",
+  "en": "Peace · Pale Azure"
+ },
+ "Love·桃夭": {
+  "zh-CN": "Love·桃夭",
+  "zh-TW": "Love·桃夭",
+  "en": "Love · Peach Bloom"
+ },
+ "Love·竹青": {
+  "zh-CN": "Love·竹青",
+  "zh-TW": "Love·竹青",
+  "en": "Love · Bamboo Green"
+ },
+ "翻译": {
+  "zh-CN": "翻译",
+  "zh-TW": "翻譯",
+  "en": "Translation"
+ },
+ "爱，<br>不需要<span>翻译</span>。": {
+  "zh-CN": "爱，<br>不需要<span>翻译</span>。",
+  "zh-TW": "愛，<br>不需要<span>翻譯</span>。",
+  "en": "Love,<br>needs no <span>translation</span>."
+ },
+ "棕色 SHER 织带": {
+  "zh-CN": "棕色 SHER 织带",
+  "zh-TW": "棕色 SHER 織帶",
+  "en": "Brown SHER Webbing"
+ },
+ "扣具": {
+  "zh-CN": "扣具",
+  "zh-TW": "扣具",
+  "en": "Clasp"
+ },
+ "心形 SHER · 12": {
+  "zh-CN": "心形 SHER · 12",
+  "zh-TW": "心形 SHER · 12",
+  "en": "Heart SHER · 12"
+ },
+ "刺绣": {
+  "zh-CN": "刺绣",
+  "zh-TW": "刺繡",
+  "en": "Embroidery"
+ },
+ "米白 / 棕": {
+  "zh-CN": "米白 / 棕",
+  "zh-TW": "米白 / 棕",
+  "en": "Cream / Brown"
+ },
+ "弯沿帽 · 乙24S": {
+  "zh-CN": "弯沿帽 · 乙24S",
+  "zh-TW": "彎沿帽 · 乙24S",
+  "en": "Curved-Brim Cap · Yi24S"
+ },
+ "乙24S · 弯沿帽": {
+  "zh-CN": "乙24S · 弯沿帽",
+  "zh-TW": "乙24S · 彎沿帽",
+  "en": "Yi24S · Curved-Brim Cap"
+ },
+ "绿": {
+  "zh-CN": "绿",
+  "zh-TW": "綠",
+  "en": "Green"
+ },
+ "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">绿</span>": {
+  "zh-CN": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">绿</span>",
+  "zh-TW": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">綠</span>",
+  "en": "<span class=\"dot\" style=\"background:#6B8E5A\"></span><span class=\"cn\">Green</span>"
+ },
+ "棕": {
+  "zh-CN": "棕",
+  "zh-TW": "棕",
+  "en": "Brown"
+ },
+ "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>": {
+  "zh-CN": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>",
+  "zh-TW": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">棕</span>",
+  "en": "<span class=\"dot\" style=\"background:#8B6F4E\"></span><span class=\"cn\">Brown</span>"
+ },
+ "粉": {
+  "zh-CN": "粉",
+  "zh-TW": "粉",
+  "en": "Pink"
+ },
+ "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>": {
+  "zh-CN": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>",
+  "zh-TW": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">粉</span>",
+  "en": "<span class=\"dot\" style=\"background:#F4B8C8\"></span><span class=\"cn\">Pink</span>"
+ },
+ "米白帽身，棕色帽檐。正面心形 SHER 刺绣，侧面棕色 12 标志。银色金属日字扣，扣心 12。内衬棕色 SHER 交叉织带。": {
+  "zh-CN": "米白帽身，棕色帽檐。正面心形 SHER 刺绣，侧面棕色 12 标志。银色金属日字扣，扣心 12。内衬棕色 SHER 交叉织带。",
+  "zh-TW": "米白帽身，棕色帽檐。正面心形 SHER 刺繡，側面棕色 12 標誌。銀色金屬日字扣，扣心 12。內襯棕色 SHER 交叉織帶。",
+  "en": "Cream crown, brown brim. Heart SHER embroidery up front, brown 12 on the side. Silver metal bar buckle with 12 at the clasp. Brown SHER cross-webbing lining."
+ },
+ "Love·栗色": {
+  "zh-CN": "Love·栗色",
+  "zh-TW": "Love·慄色",
+  "en": "Love · Chestnut"
+ },
+ "Love·栗色 — SHER12": {
+  "zh-CN": "Love·栗色 — SHER12",
+  "zh-TW": "Love·慄色 — SHER12",
+  "en": "Love · Chestnut — SHER12"
+ },
+ "绿色 SHER 织带": {
+  "zh-CN": "绿色 SHER 织带",
+  "zh-TW": "綠色 SHER 織帶",
+  "en": "Green SHER Webbing"
+ },
+ "米白 / 绿": {
+  "zh-CN": "米白 / 绿",
+  "zh-TW": "米白 / 綠",
+  "en": "Cream / Green"
+ },
+ "米白帽身，绿色帽檐。正面心形 SHER 刺绣，侧面绿色 12 标志。银色金属日字扣，扣心 12。内衬绿色 SHER 交叉织带。": {
+  "zh-CN": "米白帽身，绿色帽檐。正面心形 SHER 刺绣，侧面绿色 12 标志。银色金属日字扣，扣心 12。内衬绿色 SHER 交叉织带。",
+  "zh-TW": "米白帽身，綠色帽檐。正面心形 SHER 刺繡，側面綠色 12 標誌。銀色金屬日字扣，扣心 12。內襯綠色 SHER 交叉織帶。",
+  "en": "Cream crown, green brim. Heart SHER embroidery up front, green 12 on the side. Silver metal bar buckle with 12 at the clasp. Green SHER cross-webbing lining."
+ },
+ "Love·竹青 — SHER12": {
+  "zh-CN": "Love·竹青 — SHER12",
+  "zh-TW": "Love·竹青 — SHER12",
+  "en": "Love · Bamboo Green — SHER12"
+ },
+ "粉色 SHER 织带": {
+  "zh-CN": "粉色 SHER 织带",
+  "zh-TW": "粉色 SHER 織帶",
+  "en": "Pink SHER Webbing"
+ },
+ "米白 / 粉": {
+  "zh-CN": "米白 / 粉",
+  "zh-TW": "米白 / 粉",
+  "en": "Cream / Pink"
+ },
+ "米白帽身，粉色帽檐。正面心形 SHER 刺绣，侧面粉色 12 标志。银色金属日字扣，扣心 12。内衬粉色 SHER 交叉织带。": {
+  "zh-CN": "米白帽身，粉色帽檐。正面心形 SHER 刺绣，侧面粉色 12 标志。银色金属日字扣，扣心 12。内衬粉色 SHER 交叉织带。",
+  "zh-TW": "米白帽身，粉色帽檐。正面心形 SHER 刺繡，側麵粉色 12 標誌。銀色金屬日字扣，扣心 12。內襯粉色 SHER 交叉織帶。",
+  "en": "Cream crown, pink brim. Heart SHER embroidery up front, pink 12 on the side. Silver metal bar buckle with 12 at the clasp. Pink SHER cross-webbing lining."
+ },
+ "Love·桃夭 — SHER12": {
+  "zh-CN": "Love·桃夭 — SHER12",
+  "zh-TW": "Love·桃夭 — SHER12",
+  "en": "Love · Peach Bloom — SHER12"
+ },
+ "事": {
+  "zh-CN": "事",
+  "zh-TW": "事",
+  "en": "Business"
+ },
+ "做梦，<br>是认真的<span>事</span>。": {
+  "zh-CN": "做梦，<br>是认真的<span>事</span>。",
+  "zh-TW": "做夢，<br>是認真的<span>事</span>。",
+  "en": "Dreaming,<br>is serious <span>business</span>."
+ },
+ "糖果绿紫": {
+  "zh-CN": "糖果绿紫",
+  "zh-TW": "糖果綠紫",
+  "en": "Candy Green & Purple"
+ },
+ "弯沿帽 · 乙10": {
+  "zh-CN": "弯沿帽 · 乙10",
+  "zh-TW": "彎沿帽 · 乙10",
+  "en": "Curved-Brim Cap · Yi10"
+ },
+ "乙10 · 弯沿帽": {
+  "zh-CN": "乙10 · 弯沿帽",
+  "zh-TW": "乙10 · 彎沿帽",
+  "en": "Yi10 · Curved-Brim Cap"
+ },
+ "图案": {
+  "zh-CN": "图案",
+  "zh-TW": "圖案",
+  "en": "Graphic"
+ },
+ "LZLD 独角兽 — SHER12": {
+  "zh-CN": "LZLD 独角兽 — SHER12",
+  "zh-TW": "LZLD 獨角獸 — SHER12",
+  "en": "LZLD Unicorn — SHER12"
+ },
+ "憋着": {
+  "zh-CN": "憋着",
+  "zh-TW": "憋着",
+  "en": "Hold In"
+ },
+ "吼出来，<br>别<span>憋着</span>。": {
+  "zh-CN": "吼出来，<br>别<span>憋着</span>。",
+  "zh-TW": "吼出來，<br>別<span>憋着</span>。",
+  "en": "Let it out,<br>don't hold it <span>in</span>."
+ },
+ "LZLG 英斗狗 — SHER12": {
+  "zh-CN": "LZLG 英斗狗 — SHER12",
+  "zh-TW": "LZLG 英鬥狗 — SHER12",
+  "en": "LZLG Bulldog — SHER12"
+ },
+ "自由": {
+  "zh-CN": "自由",
+  "zh-TW": "自由",
+  "en": "Freedom"
+ },
+ "调节，<br>是一种<span>自由</span>。": {
+  "zh-CN": "调节，<br>是一种<span>自由</span>。",
+  "zh-TW": "調節，<br>是一種<span>自由</span>。",
+  "en": "Adjustable,<br>is <span>freedom</span>."
+ },
+ "渔夫帽 · 魔术贴": {
+  "zh-CN": "渔夫帽 · 魔术贴",
+  "zh-TW": "漁夫帽 · 魔術貼",
+  "en": "Bucket Hat · Velcro"
+ },
+ "魔术贴 · 渔夫帽": {
+  "zh-CN": "魔术贴 · 渔夫帽",
+  "zh-TW": "魔術貼 · 漁夫帽",
+  "en": "Velcro · Bucket Hat"
+ },
+ "魔术贴渔夫帽 — SHER12": {
+  "zh-CN": "魔术贴渔夫帽 — SHER12",
+  "zh-TW": "魔術貼漁夫帽 — SHER12",
+  "en": "Velcro Bucket Hat — SHER12"
+ },
+ "平沿帽 · 甲12": {
+  "zh-CN": "平沿帽 · 甲12",
+  "zh-TW": "平沿帽 · 甲12",
+  "en": "Flat-Brim Cap · Jia12"
+ },
+ "甲12 · 平沿帽": {
+  "zh-CN": "甲12 · 平沿帽",
+  "zh-TW": "甲12 · 平沿帽",
+  "en": "Jia12 · Flat-Brim Cap"
+ },
+ "魔术贴·甲12 — SHER12": {
+  "zh-CN": "魔术贴·甲12 — SHER12",
+  "zh-TW": "魔術貼·甲12 — SHER12",
+  "en": "Velcro · Jia12 — SHER12"
+ },
+ "真和平": {
+  "zh-CN": "真和平",
+  "zh-TW": "真和平",
+  "en": "Real Peace"
+ },
+ "看不见的和平，<br>才是<span>真和平</span>。": {
+  "zh-CN": "看不见的和平，<br>才是<span>真和平</span>。",
+  "zh-TW": "看不見的和平，<br>才是<span>真和平</span>。",
+  "en": "Peace you can't see,<br>is <span>real peace</span>."
+ },
+ "弯沿帽 · 乙0": {
+  "zh-CN": "弯沿帽 · 乙0",
+  "zh-TW": "彎沿帽 · 乙0",
+  "en": "Curved-Brim Cap · Yi0"
+ },
+ "乙0 · 弯沿帽": {
+  "zh-CN": "乙0 · 弯沿帽",
+  "zh-TW": "乙0 · 彎沿帽",
+  "en": "Yi0 · Curved-Brim Cap"
+ },
+ "Peace 乙0 — SHER12": {
+  "zh-CN": "Peace 乙0 — SHER12",
+  "zh-TW": "Peace 乙0 — SHER12",
+  "en": "Peace Yi0 — SHER12"
+ },
+ "Peace，全墨沉稳。": {
+  "zh-CN": "Peace，全墨沉稳。",
+  "zh-TW": "Peace，全墨沉穩。",
+  "en": "Peace — all Ink, composed."
+ },
+ "Peace·墨": {
+  "zh-CN": "Peace·墨",
+  "zh-TW": "Peace·墨",
+  "en": "Peace · Ink"
+ },
+ "Peace·墨 — SHER12": {
+  "zh-CN": "Peace·墨 — SHER12",
+  "zh-TW": "Peace·墨 — SHER12",
+  "en": "Peace · Ink — SHER12"
+ },
+ "Peace，蓝色款。和平的新表达。": {
+  "zh-CN": "Peace，蓝色款。和平的新表达。",
+  "zh-TW": "Peace，藍色款。和平的新表達。",
+  "en": "Peace — the blue edition. Peace, re-expressed."
+ },
+ "Peace·缥 — SHER12": {
+  "zh-CN": "Peace·缥 — SHER12",
+  "zh-TW": "Peace·縹 — SHER12",
+  "en": "Peace · Pale Azure — SHER12"
+ },
+ "深圳人": {
+  "zh-CN": "深圳人",
+  "zh-TW": "深圳人",
+  "en": "Shenzhener"
+ },
+ "来了，<br>就是<span>深圳人</span>。": {
+  "zh-CN": "来了，<br>就是<span>深圳人</span>。",
+  "zh-TW": "來了，<br>就是<span>深圳人</span>。",
+  "en": "Arrive,<br>and you <span>belong</span>."
+ },
+ "Sher 乙0 — SHER12": {
+  "zh-CN": "Sher 乙0 — SHER12",
+  "zh-TW": "Sher 乙0 — SHER12",
+  "en": "Sher Yi0 — SHER12"
+ },
+ "白蓝": {
+  "zh-CN": "白蓝",
+  "zh-TW": "白藍",
+  "en": "White / Blue"
+ },
+ "Sher·月白天青 — SHER12": {
+  "zh-CN": "Sher·月白天青 — SHER12",
+  "zh-TW": "Sher·月白天青 — SHER12",
+  "en": "Sher · Moon White & Sky Azure — SHER12"
+ },
+ "名字": {
+  "zh-CN": "名字",
+  "zh-TW": "名字",
+  "en": "Name"
+ },
+ "签上，<br>你的<span>名字</span>。": {
+  "zh-CN": "签上，<br>你的<span>名字</span>。",
+  "zh-TW": "籤上，<br>你的<span>名字</span>。",
+  "en": "Sign it,<br>with your <span>name</span>."
+ },
+ "Sign 乙24H·霁蓝 — SHER12": {
+  "zh-CN": "Sign 乙24H·霁蓝 — SHER12",
+  "zh-TW": "Sign 乙24H·霽藍 — SHER12",
+  "en": "Sign Yi24H · Clear Sky — SHER12"
+ },
+ "灰": {
+  "zh-CN": "灰",
+  "zh-TW": "灰",
+  "en": "Grey"
+ },
+ "Sign 乙24H·苍 — SHER12": {
+  "zh-CN": "Sign 乙24H·苍 — SHER12",
+  "zh-TW": "Sign 乙24H·蒼 — SHER12",
+  "en": "Sign Yi24H · Pale Cyan — SHER12"
+ },
+ "青古绿": {
+  "zh-CN": "青古绿",
+  "zh-TW": "青古綠",
+  "en": "Antique Green"
+ },
+ "Sign·黛绿 — SHER12": {
+  "zh-CN": "Sign·黛绿 — SHER12",
+  "zh-TW": "Sign·黛綠 — SHER12",
+  "en": "Sign · Jade Dark — SHER12"
+ },
+ "Sign·海棠 — SHER12": {
+  "zh-CN": "Sign·海棠 — SHER12",
+  "zh-TW": "Sign·海棠 — SHER12",
+  "en": "Sign · Crabapple — SHER12"
+ },
+ "藤萝紫": {
+  "zh-CN": "藤萝紫",
+  "zh-TW": "藤蘿紫",
+  "en": "Wisteria Purple"
+ },
+ "Sign·藤萝 — SHER12": {
+  "zh-CN": "Sign·藤萝 — SHER12",
+  "zh-TW": "Sign·藤蘿 — SHER12",
+  "en": "Sign · Wisteria — SHER12"
+ },
+ "棕黄": {
+  "zh-CN": "棕黄",
+  "zh-TW": "棕黃",
+  "en": "Tan"
+ },
+ "Sign·茶色 — SHER12": {
+  "zh-CN": "Sign·茶色 — SHER12",
+  "zh-TW": "Sign·茶色 — SHER12",
+  "en": "Sign · Tea — SHER12"
+ },
+ "野性": {
+  "zh-CN": "野性",
+  "zh-TW": "野性",
+  "en": "Wild Side"
+ },
+ "释放，<br>你的<span>野性</span>。": {
+  "zh-CN": "放开，<br>你的<span>野性</span>。",
+  "zh-TW": "放開，<br>你的<span>野性</span>。",
+  "en": "Let loose,<br>your <span>wilder side</span>."
+ },
+ "红 / 蓝": {
+  "zh-CN": "红 / 蓝",
+  "zh-TW": "紅 / 藍",
+  "en": "Red / Blue"
+ },
+ "五片平沿帽 · 甲10": {
+  "zh-CN": "五片平沿帽 · 甲10",
+  "zh-TW": "五片平沿帽 · 甲10",
+  "en": "5-Panel Flat-Brim · Jia10"
+ },
+ "甲10 · 五片平沿帽": {
+  "zh-CN": "甲10 · 五片平沿帽",
+  "zh-TW": "甲10 · 五片平沿帽",
+  "en": "Jia10 · 5-Panel Flat-Brim"
+ },
+ "蛇皮纹 — SHER12": {
+  "zh-CN": "蛇皮纹 — SHER12",
+  "zh-TW": "蛇皮紋 — SHER12",
+  "en": "Snake Skin — SHER12"
+ },
+ "态度": {
+  "zh-CN": "态度",
+  "zh-TW": "態度",
+  "en": "Energy"
+ },
+ "街舞与帽，<br>同一种<span>态度</span>。": {
+  "zh-CN": "街舞与帽，<br>同一种<span>气质</span>。",
+  "zh-TW": "街舞與帽，<br>同一種<span>氣質</span>。",
+  "en": "Street dance and caps —<br>same <span>energy</span>."
+ },
+ "街舞联名甲24版，平沿更贴街头。": {
+  "zh-CN": "街舞联名甲24版，平沿，街头感。",
+  "zh-TW": "街舞聯名甲24版，平沿，街頭感。",
+  "en": "Street-dance collaboration, Jia24 fit — flat brim, street-ready."
+ },
+ "街舞·甲24": {
+  "zh-CN": "街舞·甲24",
+  "zh-TW": "街舞·甲24",
+  "en": "Street Dance · Jia24"
+ },
+ "街舞·甲24 — SHER12": {
+  "zh-CN": "街舞·甲24 — SHER12",
+  "zh-TW": "街舞·甲24 — SHER12",
+  "en": "Street Dance · Jia24 — SHER12"
+ },
+ "一切": {
+  "zh-CN": "一切",
+  "zh-TW": "一切",
+  "en": "Everything"
+ },
+ "十二即<span>一切</span>。": {
+  "zh-CN": "十二即<span>一切</span>。",
+  "zh-TW": "十二即<span>一切</span>。",
+  "en": "Twelve is <span>everything</span>."
+ },
+ "卡其 / 金绣": {
+  "zh-CN": "卡其 / 金绣",
+  "zh-TW": "卡其 / 金繡",
+  "en": "Khaki / Gold Embroidery"
+ },
+ "拾贰 — SHER12": {
+  "zh-CN": "拾贰 — SHER12",
+  "zh-TW": "拾貳 — SHER12",
+  "en": "Twelve — SHER12"
+ },
+ "头上": {
+  "zh-CN": "头上",
+  "zh-TW": "頭上",
+  "en": "Your Head"
+ },
+ "把「中国」<br>戴在<span>头上</span>。": {
+  "zh-CN": "把「中国」<br>戴在<span>头上</span>。",
+  "zh-TW": "把「中國」<br>戴在<span>頭上</span>。",
+  "en": "Wear \"China\"<br>on your <span>head</span>."
+ },
+ "酒红 / 金绣": {
+  "zh-CN": "酒红 / 金绣",
+  "zh-TW": "酒紅 / 金繡",
+  "en": "Wine / Gold Embroidery"
+ },
+ "「中国」二字，金黄刺绣，酒红底。最直接的文化表达。": {
+  "zh-CN": "「中国」二字，金黄刺绣，酒红底。文化，不言而喻。",
+  "zh-TW": "「中國」二字，金黃刺繡，酒紅底。文化，不言而喻。",
+  "en": "\"China\" in gold embroidery on wine red. Culture, worn simply."
+ },
+ "中国·朱砂 — SHER12": {
+  "zh-CN": "中国·朱砂 — SHER12",
+  "zh-TW": "中國·硃砂 — SHER12",
+  "en": "China · Cinnabar — SHER12"
+ },
+ "中国帽子本土设计": {
+  "zh-CN": "中国帽子本土设计",
+  "zh-TW": "中國帽子本土設計",
+  "en": "Caps designed in China"
+ },
+ "我们用一套自己的语言定义帽子。四种帽型，四种扣法，不多不少。": {
+  "zh-CN": "我们用一套自己的语言定义帽子。四种帽型，四种扣法，不多不少。",
+  "zh-TW": "我們用一套自己的語言定義帽子。四種帽型，四種扣法，不多不少。",
+  "en": "We name our fits our own way. Four silhouettes, four clasps — a system, not a size chart."
+ },
+ "SHER12 不只是一顶帽子。是一群相信中国设计的人。加入我们，每次发售不会错过。": {
+  "zh-CN": "SHER12 不只是一顶帽子。是一群相信中国设计的人。加入我们，每次发售不会错过。",
+  "zh-TW": "SHER12 不只是一頂帽子。是一羣相信中國設計的人。加入我們，每次發售不會錯過。",
+  "en": "SHER12 is more than a cap. We're a community who believe Chinese design has a place up there. Join us — first access to every release."
+ },
+ "30秒解决帽子皱纹。喷一喷，褶皱自然平复。出行常备。": {
+  "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。出行常备。",
+  "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。出行常備。",
+  "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally. Keep one handy, wherever you go."
+ },
+ "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。": {
+  "zh-CN": "免水洗帽子清洁液。200ml 泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
+  "zh-TW": "免水洗帽子清潔液。200ml 泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
+  "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
+ },
+ "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，干净利落。": {
+  "zh-CN": "棒球帽专用去毛屑刷。可替换海绵刷头，波浪握持设计。轻轻一刷，干净利落。",
+  "zh-TW": "棒球帽專用去毛屑刷。可替換海綿刷頭，波浪握持設計。輕輕一刷，乾淨利落。",
+  "en": "A lint brush made for caps. Replaceable sponge head, wave-grip handle. One light sweep — lint and dust gone."
+ },
+ "好帽需要照顾。帽刷 + 清洁液 + 除皱喷雾，让帽子保持如新。": {
+  "zh-CN": "好帽需要照顾。帽刷 + 清洁液 + 除皱喷雾，让帽子保持如新。",
+  "zh-TW": "好帽需要照顧。帽刷 + 清潔液 + 除皺噴霧，讓帽子保持如新。",
+  "en": "Good caps deserve care. Brush + cleaner + wrinkle spray — keep every cap fresh."
+ },
+ "每一座城市，都有自己的颜色与性格。戴上就好。": {
+  "zh-CN": "每一座城市，都有自己的颜色与性格。戴上就好。",
+  "zh-TW": "每一座城市，都有自己的顏色與性格。戴上就好。",
+  "en": "Every city has its own colour and character. Wear yours."
+ },
+ "CAP BRUSH 棒球帽专用去毛屑刷。": {
+  "zh-CN": "CAP BRUSH 棒球帽专用去毛屑刷。",
+  "zh-TW": "CAP BRUSH 棒球帽專用去毛屑刷。",
+  "en": "CAP BRUSH — the lint brush for caps. KEEP THE HEAD UP."
+ },
+ "Simple 基础系列，赭石配色。复古温暖，百搭。": {
+  "zh-CN": "Simple 基础系列，赭石配色。复古温暖，百搭。",
+  "zh-TW": "Simple 基礎系列，赭石配色。復古溫暖，百搭。",
+  "en": "Simple — Ochre. Retro, warm, goes with everything."
+ },
+ "Simple 基础系列，玄色配色。品质本身，不言而喻。": {
+  "zh-CN": "Simple 基础系列，玄色配色。品质本身，不言而喻。",
+  "zh-TW": "Simple 基礎系列，玄色配色。品質本身，不言而喻。",
+  "en": "Simple — Xuan Black. Quality speaks for itself."
+ },
+ "一只在加载的狗。不想起床，不想上班，一直在缓冲。": {
+  "zh-CN": "一只在加载的狗。不想起床，不想上班，一直在缓冲。",
+  "zh-TW": "一隻在加載的狗。不想起牀，不想上班，一直在緩衝。",
+  "en": "A dog stuck on loading. Won't get up, won't work, always buffering."
+ },
+ "独角兽，糖果绿紫，甜美梦幻。": {
+  "zh-CN": "独角兽，糖果绿紫，甜美梦幻。",
+  "zh-TW": "獨角獸，糖果綠紫，甜美夢幻。",
+  "en": "Unicorn in candy green & purple — sweet, dreamy. Art-toy meets cap culture."
+ },
+ "蛇皮纹理印花，红蓝撞色，一抹野性。": {
+  "zh-CN": "蛇皮纹理印花，红蓝撞色，一抹野性。",
+  "zh-TW": "蛇皮紋理印花，紅藍撞色，一抹野性。",
+  "en": "Snake-skin print, red-blue clash — a bold edge."
+ },
+ "「广东」刺绣，深圳人的广东认同。根在南方。": {
+  "zh-CN": "「广东」刺绣，深圳人的广东认同。根在南方。",
+  "zh-TW": "「廣東」刺繡，深圳人的廣東認同。根在南方。",
+  "en": "\"Guangdong\" embroidery — Shenzhen's roots, rooted in the south."
+ },
+ "弯沿帽配魔术贴，全玄百搭。可调节。": {
+  "zh-CN": "弯沿帽配魔术贴，全玄百搭。可调节。",
+  "zh-TW": "彎沿帽配魔術貼，全玄百搭。可調節。",
+  "en": "Curved-brim with Velcro — all Xuan Black, goes with everything. Adjustable."
+ },
+ "五片帽天青款，SHER 刺绣。可调节。": {
+  "zh-CN": "五片帽天青款，SHER 刺绣。可调节。",
+  "zh-TW": "五片帽天青款，SHER 刺繡。可調節。",
+  "en": "5-panel cap in Sky Azure, finished with SHER embroidery. Adjustable."
+ },
+ "五片帽玄色款，可调节。版型为先。": {
+  "zh-CN": "五片帽玄色款，可调节。版型为先。",
+  "zh-TW": "五片帽玄色款，可調節。版型爲先。",
+  "en": "5-panel in Xuan Black. Adjustable. Fit is everything."
+ },
+ "马赛克像素风 SHER 印花，数字时代的表达。": {
+  "zh-CN": "马赛克像素风 SHER 印花，数字时代的表达。",
+  "zh-TW": "馬賽克像素風 SHER 印花，數字時代的表達。",
+  "en": "Pixelated SHER print — cap design for the digital age."
+ },
+ "Sign 乙24H版，苍色低调。金属扣款。": {
+  "zh-CN": "Sign 乙24H版，苍色低调。金属扣款。",
+  "zh-TW": "Sign 乙24H版，蒼色低調。金屬扣款。",
+  "en": "Sign Yi24H in Pale Cyan — understated. Metal buckle finish."
+ },
+ "魔术贴可调节渔夫帽，玄色配色。功能与风格，都在。": {
+  "zh-CN": "魔术贴可调节渔夫帽，玄色配色。功能与风格，都在。",
+  "zh-TW": "魔術貼可調節漁夫帽，玄色配色。功能與風格，都在。",
+  "en": "Velcro-adjustable bucket in Xuan Black — function meets style."
+ },
+ "Sign 乙24H版，霁蓝清爽。金属扣款。": {
+  "zh-CN": "Sign 乙24H版，霁蓝清爽。金属扣款。",
+  "zh-TW": "Sign 乙24H版，霽藍清爽。金屬扣款。",
+  "en": "Sign Yi24H in Clear Sky — crisp. Metal buckle finish."
+ },
+ "只管向上。8848.86m，一座山的高度，一种心境的高度。": {
+  "zh-CN": "只管向上。8848.86m，一座山的高度，一种心境的高度。",
+  "zh-TW": "只管向上。8848.86m，一座山的高度，一種心境的高度。",
+  "en": "Up, just up. 8,848.86m — the height of a mountain, the height of a mindset."
+ },
+ "双面玄月白印花渔夫帽，SHER 印花。": {
+  "zh-CN": "双面玄月白印花渔夫帽，SHER 印花。",
+  "zh-TW": "雙面玄月白印花漁夫帽，SHER 印花。",
+  "en": "Reversible bucket in Xuan Black & Moon White with a SHER print."
+ },
+ "Sign 系列海棠款，不落俗套。": {
+  "zh-CN": "Sign 系列海棠款，不落俗套。",
+  "zh-TW": "Sign 系列海棠款，不落俗套。",
+  "en": "Sign in Crabapple — off the grid."
+ },
+ "「中国」二字，金黄刺绣，酒红底；不服两个字。中国文化，戴上就好。": {
+  "zh-CN": "「中国」二字，金黄刺绣，酒红底；不服两个字。中国文化，戴上就好。",
+  "zh-TW": "「中國」二字，金黃刺繡，酒紅底；不服兩個字。中國文化，戴上就好。",
+  "en": "\"China\" in gold on wine red. Defy — one word. Culture, worn quietly."
+ },
+ "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就好。三色可选：桃夭、栗色、竹青。": {
+  "zh-CN": "心形 SHER 刺绣，粉色帽檐。Love 系列——爱不需要翻译，戴上就好。三色可选：桃夭、栗色、竹青。",
+  "zh-TW": "心形 SHER 刺繡，粉色帽檐。Love 系列——愛不需要翻譯，戴上就好。三色可選：桃夭、慄色、竹青。",
+  "en": "Heart SHER embroidery, pink brim. The Love series — love needs no translation; just wear it. Three colors: Peach Bloom, Chestnut, Bamboo Green."
+ },
+ "把中国文化的纹样，绣在帽子上。": {
+  "zh-CN": "把中国文化的纹样，绣在帽子上。",
+  "zh-TW": "把中國文化的紋樣，繡在帽子上。",
+  "en": "Stitching Chinese motifs onto every cap, thread by thread."
+ },
+ "两个字，不多说。戴上就好。": {
+  "zh-CN": "两个字，不多说。戴上就好。",
+  "zh-TW": "兩個字，不多說。戴上就好。",
+  "en": "One word. Put it on."
+ },
+ "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。": {
+  "zh-CN": "免水洗帽子清洁液。200ml泡沫按压，温和去污不伤帽型。按一按，擦一擦，帽子如新。",
+  "zh-TW": "免水洗帽子清潔液。200ml泡沫按壓，溫和去污不傷帽型。按一按，擦一擦，帽子如新。",
+  "en": "Water-free cap cleaner. 200ml foam pump — cleans gently without ruining the shape. Pump, wipe, fresh again."
+ },
+ "港澳人的声音，<br>也是中国人的<span>声音</span>。": {
+  "zh-CN": "港澳人的声音，<br>也是中国人的<span>声音</span>。",
+  "zh-TW": "港澳人的聲音，<br>也是中國人的<span>聲音</span>。",
+  "en": "The voice of Hong Kong and Macao,<br>is the <span>voice</span> of China, too."
+ },
+ "放开，<br>你的<span>野性</span>。": {
+  "zh-CN": "放开，<br>你的<span>野性</span>。",
+  "zh-TW": "放開，<br>你的<span>野性</span>。",
+  "en": "Let loose,<br>your <span>wilder side</span>."
+ },
+ "街舞与帽，<br>同一种<span>气质</span>。": {
+  "zh-CN": "街舞与帽，<br>同一种<span>气质</span>。",
+  "zh-TW": "街舞與帽，<br>同一種<span>氣質</span>。",
+  "en": "Street dance and caps —<br>same <span>energy</span>."
+ },
+ "街舞联名甲24版，平沿，街头感。": {
+  "zh-CN": "街舞联名甲24版，平沿，街头感。",
+  "zh-TW": "街舞聯名甲24版，平沿，街頭感。",
+  "en": "Street-dance collaboration, Jia24 fit — flat brim, street-ready."
+ },
+ "「中国」二字，金黄刺绣，酒红底。文化，不言而喻。": {
+  "zh-CN": "「中国」二字，金黄刺绣，酒红底。文化，不言而喻。",
+  "zh-TW": "「中國」二字，金黃刺繡，酒紅底。文化，不言而喻。",
+  "en": "\"China\" in gold embroidery on wine red. Culture, worn simply."
+ },
+ "向上，只管向上。8848.86m，一座山的高度，一种态度的高度。": {
+  "zh-CN": "向上，只管向上。8848.86m，一座山的高度，一种态度的高度。",
+  "zh-TW": "向上，只管向上。8848.86m，一座山的高度，一種態度的高度。",
+  "en": "Up, just up. 8,848.86m — the height of a mountain, the height of a mindset."
+ },
+ "30秒解决帽子皱纹。喷一喷，褶皱自然平复。帽子常备，出行常备。": {
+  "zh-CN": "30秒解决帽子皱纹。喷一喷，褶皱自然平复。帽子常备，出行常备。",
+  "zh-TW": "30秒解決帽子皺紋。噴一噴，褶皺自然平復。帽子常備，出行常備。",
+  "en": "Wrinkles gone in 30 seconds. Spray — creases smooth out naturally. Keep one handy, wherever you go."
+ },
+ "两个字，一种态度。戴上就好。": {
+  "zh-CN": "两个字，一种态度。戴上就好。",
+  "en": "Two words, one attitude. Just wear it.",
+  "zh-TW": "兩個字，一種態度。戴上就好。"
+ }
 }
