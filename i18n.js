@@ -153,6 +153,13 @@
   /* ---- 启动 ---- */
   function init() {
     renderSwitcher();
+    /* 优先用内嵌词典（i18n-dict.js）——file:// 本地打开时 fetch 被浏览器拦截，内嵌版保证任何打开方式都能切换 */
+    if (window.SHER12_I18N) {
+      dict = window.SHER12_I18N;
+      buildLookup(dict);
+      apply(current);
+      return;
+    }
     fetch('i18n-dict.json', { cache: 'no-cache' })
       .then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
